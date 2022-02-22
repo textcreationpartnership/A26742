@@ -1,0 +1,1357 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A catalogue of the common and statute law-books of this realm and some others relating thereunto alphabetically digested under proper heads, with an account of the best editions, volumes, and common prices they are now sold at / collected by Tho. Bassett.</title>
+            <author>Bassett, Thomas, bookseller.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1671</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 133 KB of XML-encoded text transcribed from 67 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26742</idno>
+            <idno type="STC">Wing B1043</idno>
+            <idno type="STC">ESTC R37085</idno>
+            <idno type="EEBO-CITATION">16206294</idno>
+            <idno type="OCLC">ocm 16206294</idno>
+            <idno type="VID">105078</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26742)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105078)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1087:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A catalogue of the common and statute law-books of this realm and some others relating thereunto alphabetically digested under proper heads, with an account of the best editions, volumes, and common prices they are now sold at / collected by Tho. Bassett.</title>
+                  <author>Bassett, Thomas, bookseller.</author>
+               </titleStmt>
+               <extent>[10], 120 p.   </extent>
+               <publicationStmt>
+                  <publisher>T. Bassett], and are to be sold at his shop ... in Fleet Street,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1671.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Law --  England --  Bibliography.</term>
+               <term>Law --  England --  Catalogs.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105078:1"/>
+            <pb facs="tcp:105078:1" rendition="simple:additions"/>
+            <p>A CATALOGUE OF THE <hi>Common</hi> and <hi>Statute</hi> LAW-BOOKS OF THIS REALM; And ſome others relating thereunto.</p>
+            <p>Alphabetically digeſted under proper HEADS.</p>
+            <p>WITH An Account of the beſt Editions, Volumes, and common Prices they are now ſold at.</p>
+            <p>Collected by <hi>Tho. Baſſett.</hi>
+            </p>
+            <p>And are to be ſold at his Shop, at the <hi>George</hi> near <hi>Cliffords</hi>-Inne in <hi>Fleet</hi> ſtreet. 1671.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:105078:2"/>
+            <pb facs="tcp:105078:2"/>
+            <head>TO THE READER.</head>
+            <p>FOR ſeveral Years last past, having traded in Books, it has often hap<g ref="char:EOLhyphen"/>pened that I have been at a loſs, when, by Gentlemen (either whoſe Profeſſion induced, or their Curioſity inclined them to buy Books on that Subject) an Account hath been demanded of me of all the Law-Books extant.
+<pb facs="tcp:105078:3"/> Now for avoiding the trouble which for the future I and other Book-ſellers might undergo in ſuch caſe, but more eſpecially for ſatisfaction of thoſe who are deſi<g ref="char:EOLhyphen"/>rous to be informed therein, I have collected the enſuing <hi>Cata<g ref="char:EOLhyphen"/>logue,</hi> whereby the Reader will be informed of all the Law-Books now Extant, which directly, or more remotely concern the Common and Statute Law of this Realm, and of the beſt Editions and Pri<g ref="char:EOLhyphen"/>ces, <hi>&amp;c.</hi> of the ſame; In doing of which, I had the kind aſſiſtance of ſome Gentlemen of the Profeſſion of Law. To do a thing firſt, and
+<pb facs="tcp:105078:3"/> to do it perfectly, is more than (perhaps) any has as yet pretended to; and therefore this Printed <hi>Catalogue</hi> may well be capable of amendment, or additions at leaſt, and being conſcious of it, I have left blanks at the end of each Ti<g ref="char:EOLhyphen"/>tle, that what is omitted here by me, and occurs to others, may be added in their proper Places. And to the end thoſe into whoſe hands this <hi>Catalogue</hi> ſhall come, may have it more and more perfect, if they pleaſe to have recourſe to me, I ſhall afford them my aſſiſtance therein; and in the mean time Collect and Inſert in a <hi>Cata<g ref="char:EOLhyphen"/>logue</hi>
+               <pb facs="tcp:105078:4"/> I keep by me for that pur<g ref="char:EOLhyphen"/>poſe, all Books (which upon far<g ref="char:EOLhyphen"/>ther ſearch, and others Informa<g ref="char:EOLhyphen"/>tion) I find omitted, and alſo thoſe that ſhall be hereafter Pub<g ref="char:EOLhyphen"/>liſhed.</p>
+            <p>Beſides the encouragement I had from ſome, to whom I im<g ref="char:EOLhyphen"/>parted my intentions concerning this <hi>Catalogue,</hi> when it was only in deſign, and the inducements I touched before, I apprehended, that by this Collection ſome ad<g ref="char:EOLhyphen"/>vantage would redound to ſuch, as living remote from <hi>London,</hi> are by ſpecious Titles trepann'd into the buying of ſome Law-Books,
+<pb facs="tcp:105078:4"/> before they are aſsured whither (in truth) the Diſcourſe tends, which how frequently it happens, experience ſufficiently convinces. The Method I have vſed, and the placing Books un<g ref="char:EOLhyphen"/>der the Titles I have diſpoſed them, may probably be diſliked by ſome; however, the <hi>Cata<g ref="char:EOLhyphen"/>logue</hi> not being very long, the whole may be ſoon read over, which will cure that Fault. And the ends I aim at, will (I hope) excuſe the attempt, and my Errors in the performance of it.</p>
+            <closer>
+               <signed>Tho. Baſſett.</signed>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:105078:5"/>
+            <pb facs="tcp:105078:5"/>
+            <head>A TABLE of the Titles in the enſuing Catalogue.</head>
+            <list>
+               <item>ABridgments. <hi>Page 1</hi>
+               </item>
+               <item>Arguments. <hi>Page 11</hi>
+               </item>
+               <item>Conſtables. <hi>Page 15</hi>
+               </item>
+               <item>Courts. <hi>Page 18</hi>
+               </item>
+               <item>Crown. <hi>Page 27</hi>
+               </item>
+               <item>Cuſtoms. <hi>Page 30</hi>
+               </item>
+               <item>Interpreters of Law Terms. <hi>Page 33</hi>
+               </item>
+               <item>Juſtice of Peace. <hi>Page 37</hi>
+               </item>
+               <item>Maxims and Grounds of the Law. <hi>Page 42</hi>
+               </item>
+               <item>Parliament. <hi>Page 46</hi>
+               </item>
+               <item>Preſidents. <hi>Page 50</hi>
+               </item>
+               <item>Readings. <hi>Page 61</hi>
+               </item>
+               <item>Reports. <hi>Page 64</hi>
+               </item>
+               <item>Sheriffs. <hi>Page 80</hi>
+               </item>
+               <item>Statutes. <hi>Page 82</hi>
+               </item>
+               <item>Tables. <hi>Page 85</hi>
+               </item>
+               <item>Tithes, <hi>&amp;c. Page 88</hi>
+               </item>
+               <item>Wills and Teſtaments. <hi>Page 90</hi>
+               </item>
+               <item>Of Writs. <hi>Page 92</hi>
+               </item>
+               <item>Miſcellanies. <hi>Page 94. &amp;c.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:105078:6"/>
+            <head>ADVERTISEMENT.</head>
+            <p>
+               <hi>I</hi> Deſire the Reader to take Notice, That all Books in this <hi>Catalogue,</hi> not ſaid to be in another Language, are in Engliſh. And alſo that I have mentioned none but the beſt Editions, and that there is no difference in the Editions (though ſome have been often Printed) but where this Mark * is prefixed.</p>
+         </div>
+         <div type="license">
+            <p>Licenſed,</p>
+            <closer>
+               <dateline>
+                  <date>Octob. 13. 1670.</date>
+               </dateline>
+               <signed>Roger L'Eſtrange.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb n="1" facs="tcp:105078:6"/>
+            <head>ABRIDGMENTS.</head>
+            <p>AN <hi>Abridgment</hi> of the Book of <hi>Aſſizes,</hi> in <hi>Octavo, <hi>French.</hi>
+               </hi> Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>* An <hi>Abridgment</hi> of the <hi>Common Law,</hi> contained in the Year Books, and other Books of Law, Readings and Records; Collected and written by Sir <hi>Robert Brook</hi> Knight, Chief Juſtice of the <hi>Common-Bench</hi> in the time of the Reign of Queen <hi>Elizabeth. This Book hath been printed in three ſeveral Vo<g ref="char:EOLhyphen"/>lumes, but no Addition to either of them, the least (eſteemed beſt) is in Quar<g ref="char:EOLhyphen"/>to,</hi> Price 45 <hi>s. The next is in ſmall Fo<g ref="char:EOLhyphen"/>lio,</hi> Price 40 <hi>s. And the other in large Folio,</hi> Price 35 <hi>s. All three in <hi>French.</hi>
+               </hi>
+            </p>
+            <p>Some <hi>New Caſes</hi> of the Years and Time of King <hi>Hen.</hi> 8. <hi>Edw.</hi> 6. Queen <hi>Mary;</hi> Written out of the
+<pb n="2" facs="tcp:105078:7"/> great <hi>Abridgment</hi> of Sir <hi>Robert Brook,</hi> in <hi>Octavo, <hi>French.</hi>
+               </hi> Price 1 <hi>s.</hi> 6 <hi>d. The ſame is alſo Tranſlated into Engliſh by <hi>Iohn Marſh,</hi>
+               </hi> in <hi>Octavo,</hi> Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>An Exact <hi>Abridgment</hi> of the <hi>Re<g ref="char:EOLhyphen"/>cords</hi> of the Tower of <hi>London,</hi> from the Reign of King <hi>Edward</hi> the Second, unto King <hi>Richard</hi> the 3 of all the Par<g ref="char:EOLhyphen"/>liaments holden in each Kings Reign, &amp; the ſeveral Acts in every Parliament: together with the Names and Titles of all the Dukes, Marqueſſes, Earls, Viſcounts, and Barons, ſummoned to every of the ſaid Parliaments. Colle<g ref="char:EOLhyphen"/>cted by Sir <hi>Robert Cotton</hi> Knight and Baronet; Reviſed and Publiſhed by <hi>Wil. Prynne</hi> Eſq in <hi>Folio,</hi> Price 20 <hi>s.</hi>
+            </p>
+            <p>* A brief <hi>Summary</hi> of the <hi>Laws</hi> and <hi>Statutes</hi> of <hi>England,</hi> to the Year 1663. So far forth as the ſame do con<g ref="char:EOLhyphen"/>cern the Office of Juſtices of the Peace, Sheriffs, Bayliffs, Conſtables, and Churchwardens, and other Offi<g ref="char:EOLhyphen"/>cers and Miniſters of this Kingdome. Together with divers other Matters neceſſary for ſuch as bear Office in this Kingdom, the <hi>Fourth Impreſſion.</hi> Collected by <hi>Nicholas Collyn</hi> of <hi>Lin<g ref="char:EOLhyphen"/>colns</hi>-Inne
+<pb n="3" facs="tcp:105078:7"/> Eſquire, in <hi>Twelves,</hi> Price 1 <hi>s.</hi>
+            </p>
+            <p>A Perfect <hi>Abridgment</hi> of the E<g ref="char:EOLhyphen"/>leven Books of <hi>Reports</hi> of Sir <hi>Edward Coke</hi> Knight, by Sir <hi>Iohn Davis</hi> ſome<g ref="char:EOLhyphen"/>time Attorney General in <hi>Ireland,</hi> in <hi>Twelves,</hi> Price 2 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>Synopſis;</hi> or an Exact <hi>Abridg<g ref="char:EOLhyphen"/>ment</hi> of the Lord <hi>Cokes Commenta<g ref="char:EOLhyphen"/>ries</hi> upon <hi>Littleton:</hi> being a brief Explanation of the Grounds of the Law; Compoſed by Sir <hi>Humphrey Davenport</hi> Knight, in <hi>Octavo,</hi> Price 2 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>An Exact <hi>Abridgment</hi> of that ex<g ref="char:EOLhyphen"/>cellent Treatiſe, called <hi>Doctor</hi> and <hi>Student,</hi> in <hi>Octavo,</hi> Price 1 <hi>s.</hi>
+            </p>
+            <p>The Office and Authority of Sheriffs: <hi>Abridged</hi> by the former Au<g ref="char:EOLhyphen"/>thor <hi>Mich. Dalton</hi> of <hi>Lincolns</hi>-Inne Eſquire, in <hi>Octavo,</hi> Price 3 <hi>s.</hi>
+            </p>
+            <p>An <hi>Abridgment</hi> of the <hi>Reports</hi> of Sir <hi>Iames Dyer,</hi> in <hi>Octavo, <hi>French.</hi>
+               </hi> Price 2 <hi>s.</hi> 6 <hi>d. The ſame is Tranſlated into Engliſh,</hi> in <hi>Octavo,</hi> Price 2 <hi>s.</hi>
+            </p>
+            <p>* An <hi>Abridgment</hi> of the <hi>Com<g ref="char:EOLhyphen"/>mon Law</hi> contained in the Year Books and other Books of Law, Readings and Records. Collected and Written
+<pb n="4" facs="tcp:105078:8"/> by Sir <hi>Anthony Fitzherbert</hi> Knight, Lord Chief Juſtice of the <hi>Common Pleas,</hi> in the Reign of King <hi>Hen.</hi> the 8th. in <hi>Quarto, <hi>French.</hi>
+               </hi> Price 3 <hi>l.</hi> 5 <hi>s.</hi>
+            </p>
+            <p>The <hi>Common Law Epitomiz'd,</hi> with Directions how to proſecute and defend Perſonal Actions. To which is Annexed the Nature of a Writ of Errour, and the general Proceedings thereupon; by <hi>W. G<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſſon</hi> and <hi>A. Gulſton</hi> Eſquires, in <hi>Octavo,</hi> Price 3 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>Gregory's Moot-Book,</hi> being an Abridgment of Caſes concerning the Titles moſt material for the Students and Practitioners of the Laws of the Realm, digeſted in cer<g ref="char:EOLhyphen"/>tain apt Diviſions under the ſame Ti<g ref="char:EOLhyphen"/>tles, in <hi>Octavo, <hi>French.</hi>
+               </hi> Price 10 <hi>s. The ſame is alſo Tranſlated into Engliſh, and much inlarged</hi> by <hi>William Hughes</hi> of <hi>Grayes</hi>-Inne Eſquire, in <hi>Quarto,</hi> Price 10 <hi>s.</hi>
+            </p>
+            <p>The <hi>Grand Abridgment</hi> of the <hi>Law</hi> continued, or a Collection of the Principal Caſes and Points of the Common Law of <hi>England,</hi> contained in all the Reports Extant, from the firſt
+<pb n="5" facs="tcp:105078:8"/> of <hi>Elizabeth</hi> to the year 1663. by way of Common Place, by <hi>William Hughes</hi> of <hi>Grayes</hi>-Inne Eſquire, in Three Volumes, in <hi>Quarto,</hi> Price 50 <hi>s.</hi>
+            </p>
+            <p>An <hi>Abridgment</hi> of <hi>Acts</hi> and <hi>Or<g ref="char:EOLhyphen"/>dinances</hi> made from the Year 1640. to the Year 1656. by <hi>William Hughes</hi> of <hi>Grayes</hi>-Inne Eſquire, in <hi>Quarto,</hi> Price 8 <hi>s.</hi>
+            </p>
+            <p>An <hi>Abridgment</hi> of the Three Volumes of <hi>Reports</hi> of Sir <hi>George Croke</hi> Knight, of ſuch ſelect Caſes as were adjudged in the Courts of <hi>Kings-Bench,</hi> and <hi>Common-Bench,</hi> during the Reigns of Q. <hi>Elizabeth,</hi> King <hi>James,</hi> and King <hi>Charles</hi> the Firſt; by <hi>William Hughes</hi> Eſquire, in <hi>Octavo,</hi> Price 6 <hi>s.</hi>
+            </p>
+            <p>An <hi>Abridgment</hi> of the <hi>Caſes</hi> Reported by Sir <hi>Francis More</hi> Knight, with the reſolution of the Points in Law therein by the Judges; by <hi>Wil<g ref="char:EOLhyphen"/>liam Hughes</hi> Eſquire, in <hi>Octavo,</hi> Price 2 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>An <hi>Abridgment</hi> of all the <hi>Sta<g ref="char:EOLhyphen"/>tutes</hi> in force and uſe, made in the 16. 17. and 18. Years of King <hi>Charles</hi> the Firſt: and in the 12. 13. 14. and 15. Years of King <hi>Charles</hi> the Second, di<g ref="char:EOLhyphen"/>geſted
+<pb n="6" facs="tcp:105078:9"/> under proper Heads by <hi>Wil<g ref="char:EOLhyphen"/>liam Hughes</hi> of <hi>Grayes</hi>-Inne Eſquire, in <hi>Octavo,</hi> Price 2 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>An <hi>Abridgment</hi> of all the <hi>Caſes</hi> in the Year Book of <hi>Hen.</hi> the 7. in <hi>O<g ref="char:EOLhyphen"/>ctavo, <hi>French.</hi>
+               </hi> Price 5 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>An Exact <hi>Abridgment</hi> of the E<g ref="char:EOLhyphen"/>leven Books of <hi>Reports</hi> of Sir <hi>Edward Coke</hi> Knight; Compoſed by Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Ireland</hi> Knight, late of <hi>Grayes</hi>-Inne: wherein is briefly contained the very Subſtance and Marrow of all thoſe Reports; together with the Reſolutions on every <hi>Caſe,</hi> in <hi>Octavo,</hi> Price 2 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>An <hi>Abridgment</hi> of the Two laſt Volumes of <hi>Reports</hi> of Sir <hi>Edw. Coke</hi> Knight, Entituled the 12. and 13. Parts; being a <hi>Supplement,</hi> and ob<g ref="char:EOLhyphen"/>ſerving the method of <hi>Edward Trot<g ref="char:EOLhyphen"/>man</hi> Eſquire; by <hi>Thomas Manley</hi> of the <hi>Middle-Temple,</hi> in <hi>Octavo,</hi> Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>An <hi>Abſtract</hi> of all the Penall <hi>Statutes</hi> which be generally in force and uſe; by <hi>Ferdinando Pulton</hi> Eſquire, in <hi>Quarto,</hi> Price 3 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>* An <hi>Abridgment</hi> of all the <hi>Statutes</hi> that have been made and Prin<g ref="char:EOLhyphen"/>ted
+<pb n="7" facs="tcp:105078:9"/> from <hi>Magna Charta,</hi> to the end of the Seſſion of Parliament 4. <hi>Jacob.</hi> by <hi>Ferdinando Pulton</hi> of <hi>Lincolns</hi>-Inne Eſquire, in <hi>Folio,</hi> Price 12 <hi>s.</hi>
+            </p>
+            <p>An <hi>Abridgment</hi> of the <hi>Commen<g ref="char:EOLhyphen"/>taries</hi> or <hi>Reports</hi> of the learned Lawy<g ref="char:EOLhyphen"/>er <hi>Edmond Plowden,</hi> concerning di<g ref="char:EOLhyphen"/>vers Caſes and Matters in Law, and the Arguments thereupon; in the times of the Reigns of K. <hi>Edward</hi> the 6th, Q. <hi>Mary,</hi> King <hi>Philip</hi> and Queen <hi>Mary,</hi> and Queen <hi>Elizabeth;</hi> with the Exce<g ref="char:EOLhyphen"/>ptions to the Pleadings, and Anſwers thereunto, the Reſolutions of the Mat<g ref="char:EOLhyphen"/>ters in Law, and all other Matters a<g ref="char:EOLhyphen"/>riſing upon the ſame, in <hi>Octavo, <hi>French.</hi>
+               </hi> Price 2 <hi>s.</hi> 6 <hi>d. The ſame is alſo Tranſla<g ref="char:EOLhyphen"/>ted into Engliſh,</hi> by <hi>Fabian Hicks</hi> Eſ<g ref="char:EOLhyphen"/>quire, in <hi>Octavo,</hi> Price 2 <hi>s.</hi>
+            </p>
+            <p>An <hi>Abridgment</hi> of many Caſes and Reſolutions of Law, contained as well in Law Books, Statutes and Re<g ref="char:EOLhyphen"/>cords, as of the modern Judgments in the Courts at <hi>Weſtminſter,</hi> Alphabe<g ref="char:EOLhyphen"/>tically digeſted by <hi>Henry Roll</hi> Serje<g ref="char:EOLhyphen"/>ant at Law. Publiſhed by the Lord Chief Baron <hi>Hale,</hi> in <hi>Folio, <hi>French.</hi>
+               </hi> Price 40 <hi>s.</hi>
+            </p>
+            <pb n="8" facs="tcp:105078:10"/>
+            <p>A <hi>Collection</hi> in Engliſh of the <hi>Statutes</hi> now in force, continued from the beginning of <hi>Magna Charta,</hi> made in the 9. Year of King <hi>Hen.</hi> 3. until the end of the Parliament of the 7. King <hi>James,</hi> under Titles placed by or<g ref="char:EOLhyphen"/>der of Alphabet; by <hi>William Raſtall</hi> Serjeant at Law, in <hi>Folio,</hi> Price 14 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>Stalhams Abridgment</hi> of the Antient Law, firſt Publiſhed in the Reign of <hi>Hen.</hi> the 6th. in <hi>Folio, <hi>French.</hi>
+               </hi> Price 35 <hi>s.</hi>
+            </p>
+            <p>A <hi>Summary</hi> of the <hi>Common Law</hi> of <hi>England,</hi> Extracted (for the moſt part) out of Sir <hi>Hen. Finch</hi> Knight, his learned Treatiſe of the <hi>Law,</hi> in <hi>Octavo,</hi> Price 10 <hi>d.</hi>
+            </p>
+            <p>An <hi>Epitome</hi> of all the <hi>Common</hi> and <hi>Statute Laws</hi> of this Nation: wherein 1500. hardeſt termes are Ex<g ref="char:EOLhyphen"/>plained with the moſt uſeful and pro<g ref="char:EOLhyphen"/>fitable Heads or Titles of the Law by way of Common place, methodically handled by <hi>W. Sheppard</hi> Eſquire, in <hi>Folio,</hi> Price 35 <hi>s.</hi>
+            </p>
+            <p>* An <hi>Abridgment</hi> of the firſt Eleven Books of my Lord <hi>Cokes Re<g ref="char:EOLhyphen"/>ports,</hi> with a <hi>Table</hi> lately added by
+<pb n="9" facs="tcp:105078:10"/> 
+               <hi>Edward Trotman</hi> Eſquire, in <hi>Octavo, <hi>French,</hi>
+               </hi> Price 5 <hi>s.</hi>
+            </p>
+            <p>* An Exact <hi>Abridgment</hi> of all <hi>Statutes</hi> in force and uſe, from the beginning of <hi>Magna Charta,</hi> until 1641. by <hi>Edm. Wingate</hi> of <hi>Grayes</hi>-Inne Eſquire: With a <hi>Continuation</hi> under their Proper Titles, of all Acts in force and uſe until the Year 1670. by <hi>T. M.</hi> in <hi>Octavo,</hi> Price 6 <hi>s.</hi>
+            </p>
+            <p>* The <hi>Body</hi> of the <hi>Common Law</hi> of <hi>Engand,</hi> as it ſtood in force before it was altered by Statute or Acts of Parliament: With a Collecti<g ref="char:EOLhyphen"/>on of ſuch Statutes as have altered, or concern the ſame; by <hi>Edmund Wingate</hi> of <hi>Grayes</hi>-Inne Eſquire, in <hi>Octavo,</hi> Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <pb n="10" facs="tcp:105078:11"/>
+            <pb n="11" facs="tcp:105078:11"/>
+            <head>ARGUMENTS.</head>
+            <p>
+               <hi>ARguments</hi> at the <hi>Tryal</hi> of Col. <hi>Euſebius Andrews,</hi> in <hi>Quarto,</hi> Price 1 <hi>s.</hi>
+            </p>
+            <p>A Learned <hi>Argument</hi> to prove that each Subject hath a Propriety in his Goods: Shewing alſo the Extent of the Kings Prerogative in Impoſiti<g ref="char:EOLhyphen"/>ons upon Merchants Goods, by a late Learned <hi>Iudge</hi> of this Kingdome, in <hi>Quarto,</hi> Price 1 <hi>s.</hi>
+            </p>
+            <p>The <hi>Arguments</hi> upon the Writ of <hi>Habeas Corpus,</hi> in the Court of <hi>Kings-Bench,</hi> concerning Loans, wherein are diſcuſſed the ſeveral Branches of the ſaid Writ, and many Authorities of the Common and Statute Law: and many antient Records debated and cleared: With the Opinion of the Court thereupon. Whereunto is an<g ref="char:EOLhyphen"/>nexed the <hi>Petition</hi> of Sir <hi>Iohn Elliot,</hi>
+               <pb n="12" facs="tcp:105078:12"/> in behalf of the <hi>Liberty</hi> of the <hi>Subject,</hi> in <hi>Quarto,</hi> Price 1 <hi>s.</hi>
+            </p>
+            <p>Two <hi>Arguments</hi> in <hi>Parliament;</hi> The firſt concerning Canons; The ſe<g ref="char:EOLhyphen"/>cond concerning Premunire upon the Canons, by <hi>Ed. Bagſhaw</hi> Eſquire, in <hi>Quarto,</hi> Price 6 <hi>d.</hi>
+            </p>
+            <p>The <hi>Caſe</hi> and <hi>Argument</hi> againſt Sir <hi>Ignoramus</hi> of <hi>Cambridge,</hi> by <hi>Ro<g ref="char:EOLhyphen"/>bert Callis</hi> of <hi>Grayes</hi>-Inne Eſquire, in <hi>Quarto,</hi> Price 6 <hi>d.</hi>
+            </p>
+            <p>The <hi>Arguments</hi> of Sir <hi>Richard Hutton</hi> Knight, and Sir <hi>George Croke</hi> Knight. Together with the Certificate of Sir <hi>Iohn Denham</hi> Knight, upon a <hi>Scire Facias</hi> brought by the King in the Court of <hi>Exchequer</hi> againſt <hi>John Hampden</hi> Eſquire: As alſo the ſeveral Votes of the Commons and Peers in Parliament, and the Orders of the Lords for the vacating of the Judg<g ref="char:EOLhyphen"/>ment given againſt Mr. <hi>Hampden,</hi> and the vacating of the ſeveral Rolls in each Court, wherein the Judges Extra<g ref="char:EOLhyphen"/>judicial Opinions in the Caſes made touching Ship-Money are entred, in <hi>Quarto,</hi> Price 2 <hi>s.</hi>
+            </p>
+            <p>An <hi>Argument</hi> upon a general <hi>Demurrer,</hi> joyned and entred in an
+<pb n="13" facs="tcp:105078:12"/> Action of falſe Impriſonment in the <hi>Kings-Bench</hi> Court, <hi>Termino Trinita<g ref="char:EOLhyphen"/>tis</hi> 1631. <hi>Rot.</hi> 1483 <hi>parte tertia,</hi> between <hi>George Huntley</hi> Clerk, Plaintiff; and <hi>William Kingſley</hi> Arch Deacon of <hi>Canterbury,</hi> in <hi>Quarto,</hi> Price 1 <hi>s.</hi>
+            </p>
+            <p>The <hi>Liberty</hi> of the <hi>Subject</hi> maintained by an <hi>Argument</hi> in Parliament, <hi>Anno</hi> 7. <hi>Jacobi Regis,</hi> by <hi>William Hakewill</hi> of <hi>Lincolns</hi>-Inne Eſquire, in <hi>Quarto,</hi> Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>An <hi>Argument</hi> in <hi>Law</hi> concerning the <hi>Militia,</hi> by <hi>I. M.</hi> in <hi>Quarto,</hi> Price 6 <hi>d.</hi>
+            </p>
+            <p>The <hi>Rights</hi> of the <hi>People</hi> con<g ref="char:EOLhyphen"/>cerning <hi>Impoſitions,</hi> ſtated in a learn<g ref="char:EOLhyphen"/>ed <hi>Argument,</hi> with a <hi>Remonſtrance</hi> preſented to the King by the Houſe of Commons in Parliament, <hi>Anno. Dom.</hi> 1610. <hi>Annoque Regis Jac.</hi> 7. by a late e<g ref="char:EOLhyphen"/>minent <hi>Iudge</hi> of this Nation, in <hi>Octa<g ref="char:EOLhyphen"/>vo,</hi> Price 1 <hi>s.</hi>
+            </p>
+            <p>An <hi>Argument</hi> of <hi>Law,</hi> con<g ref="char:EOLhyphen"/>cerning the Bill of Attainder of High Treaſon of <hi>Thomas</hi> Earl of <hi>Strafford,</hi> at a Conference in a Committee of both Houſes of Parliament, by Mr. <hi>Saint Iohn,</hi> his Majeſties Solicitor General, in <hi>Quarto,</hi> Price 6 <hi>d.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <pb n="14" facs="tcp:105078:13"/>
+            <pb n="15" facs="tcp:105078:13"/>
+            <head>CONSTABLES.</head>
+            <p>THe <hi>Duties</hi> of <hi>Conſtables,</hi> Borſholders, Tythingmen, and ſuch other low and Lay Miniſters of the Peace; by <hi>William Lambard</hi> of <hi>Lincolns</hi>-Inne Gent, in <hi>O<g ref="char:EOLhyphen"/>ctavo,</hi> Price 6 <hi>d.</hi>
+            </p>
+            <p>The <hi>Office</hi> and <hi>Duty</hi> of <hi>Conſta<g ref="char:EOLhyphen"/>bles,</hi> Churchwardens, and other the Overſeers of the Poor, by <hi>Iohn Layer,</hi> in <hi>Octavo,</hi> Price 1 <hi>s.</hi>
+            </p>
+            <p>* A <hi>Guide</hi> for <hi>Conſtables,</hi> Church<g ref="char:EOLhyphen"/>wardens, Overſeers of the Poor, Sur<g ref="char:EOLhyphen"/>veyors of the High-ways, Treaſurers of the County Stock, Maſters of the Houſe of Correction, Bayliffs of Man<g ref="char:EOLhyphen"/>nours, Toll-takers in Fairs, &amp;c. A <hi>Treatiſe</hi> briefly ſhewing the Extent and Latitude of the ſeveral Offices, with the Power of the Officers there<g ref="char:EOLhyphen"/>in, both by <hi>Common Law</hi> and <hi>Statute,</hi>
+               <pb n="16" facs="tcp:105078:14"/> according to the ſeveral Additions and Alterations of the <hi>L w,</hi> till the 22th. Year of his Majeſties Reign: The <hi>Se<g ref="char:EOLhyphen"/>cond Edition.</hi> Collected by <hi>Gro. Me<g ref="char:EOLhyphen"/>r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ton</hi> Gent. in <hi>Twelves,</hi> Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>* The <hi>Office</hi> of <hi>Conſtables,</hi> Churchwardens, Overſeers of the Poor, Superviſors of High-ways, Trea<g ref="char:EOLhyphen"/>ſurers of the County Stock, and other Country Offices plainly ſet forth, in Two Books, by <hi>William Sheppard</hi> Eſquire, in <hi>Octavo,</hi> Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>* The <hi>Exact Conſtable</hi> with his Original, and Power in the Offices of Churchwardens, Overſeers of the Poor, Surveyors of the High ways, Treaſu<g ref="char:EOLhyphen"/>rers of the County Stock, and other in<g ref="char:EOLhyphen"/>feriour Officers, as they are eſtabliſhed both by the Common Laws and Sta<g ref="char:EOLhyphen"/>tutes of this Realm; by <hi>E. W.</hi> of <hi>Grayes</hi>-Inne Eſquire; the <hi>Second Edi<g ref="char:EOLhyphen"/>tion,</hi> with many uſeful Additions, in <hi>Twelves,</hi> Price 8 <hi>d.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <pb n="17" facs="tcp:105078:14"/>
+            <pb n="18" facs="tcp:105078:15"/>
+            <head>COURTS.</head>
+            <p>* THe <hi>Fourth Part</hi> of the <hi>In<g ref="char:EOLhyphen"/>ſtitutes</hi> of the <hi>Laws</hi> of <hi>England,</hi> concerning the <hi>Iuriſdiction</hi> of <hi>Courts;</hi> The <hi>Fourth Edition.</hi> To which is added a <hi>Table</hi> by Sir <hi>Edward Coke</hi> Knight, in <hi>Folio,</hi> Price bound 8 <hi>s.</hi>
+            </p>
+            <p>* The <hi>Authority</hi> and <hi>Iurisdiction</hi> of <hi>Courts:</hi> Collected and Compoſed by <hi>R. Crompton</hi> of the <hi>Middle-Temple</hi> Eſquire, in <hi>Quarto, <hi>French,</hi>
+               </hi> Price 6 <hi>s.</hi>
+            </p>
+            <p>A <hi>Collection</hi> of ſuch of the <hi>Orders</hi> heretofore uſed in <hi>Chancery;</hi> with ſuch Alterations and Additions there<g ref="char:EOLhyphen"/>unto, as the Right Honorable <hi>Edward</hi> Earl of <hi>Clarendon,</hi> by and with the advice and aſſiſtance of the Honorable Sir <hi>Harbottle Grimſton</hi> Baronet, Ma<g ref="char:EOLhyphen"/>ſter of the Rolls, have thought fit at preſent to Ordain and Publiſh for
+<pb n="19" facs="tcp:105078:15"/> reforming of ſeveral abuſes in the ſaid <hi>Court,</hi> preventing multiplicity of Suits, Motions, and unneceſſary charge to the Suiters, and for their more expeditious and certain courſe for relief, in <hi>Octavo,</hi> Price 1 <hi>s.</hi>
+            </p>
+            <p>The <hi>Orders</hi> of a <hi>Court Leet</hi> and <hi>Court Baron,</hi> with the Charges be<g ref="char:EOLhyphen"/>longing thereunto, in <hi>Octavo,</hi> Price 6 <hi>d.</hi>
+            </p>
+            <p>The <hi>Clerk</hi> of <hi>Aſſize,</hi> Judge-Marſhal and Cryer; being the Manner and Form of the Proceedings at the Aſſizes and General Goal-delivery, both in the <hi>Crown</hi> Court and <hi>Niſi Prius</hi> Court, by <hi>T. W.</hi> To which is added an Antient Tract of the Common Laws of <hi>England,</hi> written in Latine, in <hi>O<g ref="char:EOLhyphen"/>ctavo,</hi> Price 1 <hi>s.</hi>
+            </p>
+            <p>The <hi>Law of England;</hi> or a true Guide for all Perſons concerned in <hi>Eccleſtaſtical Courts,</hi> by <hi>H. Cary,</hi> in <hi>Twelves,</hi> Price 10 <hi>d.</hi>
+            </p>
+            <p>A <hi>Collection</hi> of ſuch of the <hi>Orders</hi> heretofore uſed in <hi>Chancery,</hi> with ſuch Alterations and Additions thereunto, as the Commiſſioners for the Great Seal of <hi>England,</hi> with the advice of the Maſter of the Rolls then thought fit to
+<pb n="20" facs="tcp:105078:16"/> Ordain and Publiſh, in <hi>Octavo,</hi> Price 1 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>Clark's <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xis;</hi> being the Man<g ref="char:EOLhyphen"/>ner of Proceedings in <hi>Eccleſiaſtical Courts,</hi> in <hi>Quarto, <hi>Latine,</hi>
+               </hi> Price 6 <hi>s.</hi>
+            </p>
+            <p>The <hi>Practice</hi> of the <hi>Admiral Court</hi> of <hi>England,</hi> by <hi>Fra. Clarke,</hi> in <hi>Octavo, <hi>Lat.</hi>
+               </hi> Price 1 <hi>s.</hi>
+            </p>
+            <p>Certain <hi>O ſervations</hi> concern<g ref="char:EOLhyphen"/>ing the <hi>Office</hi> of the <hi>Lord Chancellour,</hi> Compoſed by the Right Honorable, and moſt Learned <hi>Thomas</hi> Lord <hi>Elleſ<g ref="char:EOLhyphen"/>mere</hi> late Lord Chancellour of <hi>England,</hi> in <hi>Octavo,</hi> Price 1 <hi>s.</hi>
+            </p>
+            <p>The <hi>Practice</hi> of the <hi>Exchequer Court,</hi> with its ſeveral Offices and Officers, and the Power and Duty of each Perſon; by Sir <hi>T. F.</hi> in <hi>Octavo,</hi> Price 1 <hi>s.</hi>
+            </p>
+            <p>* <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; Or a Pra<g ref="char:EOLhyphen"/>ctical Demonſtration of <hi>County Iudi<g ref="char:EOLhyphen"/>catures,</hi> wherein is amply Explained the Judicial and Miniſterial Authority of <hi>Sheriffs</hi> and <hi>Coroners:</hi> together with the Original, Juriſdiction, and Method of keeping all Country Courts, by <hi>Will. Greenwood,</hi> the <hi>Third Edi<g ref="char:EOLhyphen"/>tion,</hi> in <hi>Octavo,</hi> Price 3 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <pb n="21" facs="tcp:105078:16"/>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. A <hi>View</hi> of the <hi>Admiral Iurisdiction;</hi> wherein the moſt material Points con<g ref="char:EOLhyphen"/>cerning that Juriſdiction, are fairly and ſubmiſſively diſcuſſed, as alſo di<g ref="char:EOLhyphen"/>vers of the Laws, Cuſtoms, Rights and Priviledges of the High Admiralty of <hi>England,</hi> by antient Records and other Arguments of Law aſſerted: Where<g ref="char:EOLhyphen"/>unto is added an <hi>Extract</hi> of the Antient Laws of Oleron, by <hi>Io. Godolphin</hi> LL. D. in <hi>Octavo,</hi> Price 2 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>Pacis Conſultum;</hi> the Antiquity Extent, and Practice of ſeveral Coun<g ref="char:EOLhyphen"/>try Corporation Courts, eſpecially the Court-Leet: With an Abſtract of the <hi>Penal Statutes,</hi> by <hi>David Ienkins</hi> in <hi>Octavo,</hi> Price 1 <hi>s.</hi>
+            </p>
+            <p>A <hi>Commiſſion</hi> with <hi>Inſtructions</hi> and <hi>Directions,</hi> granted by his Majeſty to the Maſter and Counſel of the <hi>Court</hi> of <hi>Wards</hi> and <hi>Liveries,</hi> for com<g ref="char:EOLhyphen"/>pounding for <hi>Wards, Idiots</hi> and <hi>Lu<g ref="char:EOLhyphen"/>naticks, Quarto,</hi> Price 6 <hi>d.</hi>
+            </p>
+            <p>* <hi>Iurisdictions;</hi> Or the lawful Authority of <hi>Courts Leet,</hi> Courts Ba<g ref="char:EOLhyphen"/>ron, Court of Marſhalſey, Court of Py<g ref="char:EOLhyphen"/>powder or antient Demeſne: Together with the moſt neceſſary learning of
+<pb n="22" facs="tcp:105078:17"/> Tenures, and all their incidents of Eſſoyns, Imparlance, View; of all manner of Pleadings, of Contracts, of the nature of all ſorts of Actions, of Maintenance; by <hi>Iohn Kitchin</hi> of <hi>Grayes</hi>-Inne Eſquire: in <hi>Octavo. <hi>French,</hi>
+               </hi> Price 4 <hi>s. The ſame is alſo Tranſlated into Engliſh,</hi> in <hi>Octavo,</hi> Price 4 <hi>s.</hi>
+            </p>
+            <p>A Learned Treatiſe concerning <hi>Wards</hi> and <hi>Liveries:</hi> wherein is ſet forth the learning concerning them; Collected and well digeſted out of the Year Books and other Authorities of the Law, by Sir <hi>Iames Ley</hi> Knight and Baronet, in <hi>Octavo,</hi> Price 1 <hi>s.</hi>
+            </p>
+            <p>* <hi>Archeion;</hi> Or a Diſcourſe upon the High Courts of Juſtice in <hi>England.</hi> Compoſed by <hi>William Lambard</hi> of <hi>Lincolns</hi>-Inne Gent. <hi>Corrected</hi> and <hi>Enlarged</hi> according to the Authors Copy, in <hi>Octavo,</hi> Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>* The Antient legal Courſe and fundamental Conſtitution of the <hi>Pa<g ref="char:EOLhyphen"/>lace-Court</hi> or <hi>Marſhalſea:</hi> Together with the ſeveral Charges of all Pro<g ref="char:EOLhyphen"/>ceedings there, and its preſent eſta<g ref="char:EOLhyphen"/>bliſhment, particularly ſet forth and Explained, in <hi>Twelves,</hi> Price 8 <hi>d.</hi>
+            </p>
+            <p n="20">
+               <pb n="23" facs="tcp:105078:17"/>20. A <hi>Treatiſe</hi> of the Antiquity, Authority, Caſes and Juriſdiction of the Antient <hi>Courts</hi> of <hi>Leet.</hi> &amp;c. with an Explanation of the old <hi>Oath</hi> of <hi>Al<g ref="char:EOLhyphen"/>legiance,</hi> by <hi>Robert Powel</hi> of <hi>New</hi>-Inne. Gent. in <hi>Quarto,</hi> Price 2 <hi>s.</hi> 6. <hi>d.</hi>
+            </p>
+            <p>The <hi>Practice</hi> of the High Court of <hi>Chancery</hi> unfolded: With the Na<g ref="char:EOLhyphen"/>ture of the ſeveral Offices belonging to that Court; and the Reports of ma<g ref="char:EOLhyphen"/>ny Caſes, wherein Relief hath been there had, and where denied in <hi>Octavo,</hi> Price 1 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>Rules</hi> and <hi>Orders</hi> for the Courts of <hi>Vpper Bench, Common Pleas</hi> and <hi>Chancery,</hi> made and Publiſhed by the <hi>Iudges</hi> of the ſaid Courts, in the Term of St. <hi>Michael,</hi> in the year 1654. in <hi>O<g ref="char:EOLhyphen"/>ctavo,</hi> Price 2 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>The antient State Authority and Proceedings of the <hi>Court</hi> of <hi>Requeſts,</hi> in <hi>Quarto,</hi> Price 2 <hi>s.</hi>
+            </p>
+            <p>The <hi>Practice</hi> of the <hi>Sheriffs Court, <hi>London:</hi>
+               </hi> Containing the Man<g ref="char:EOLhyphen"/>ner of entring Actions, making Attach<g ref="char:EOLhyphen"/>ments and Sequeſtrations, with Fees, &amp;c. in <hi>Twelves,</hi> Price 8 <hi>d.</hi>
+            </p>
+            <p>The <hi>Court-Keepers Guide:</hi> A uſeful Treatiſe for the help of keeping
+<pb n="24" facs="tcp:105078:18"/> Law-daies or Court Baron; ſhewing the Juriſdiction of their Courts, with the learning of Mannors, Copy-holds, Rents, Harriots, &amp;c. by <hi>W. Sheppard</hi> Eſquire, in <hi>Octavo,</hi> Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>A <hi>Survey</hi> of the <hi>County Iudi<g ref="char:EOLhyphen"/>catures,</hi> commonly called the County Court, and Court Baron: Wherein the Nature and Uſe of them, and the Way and Order of keeping them is o<g ref="char:EOLhyphen"/>pened, by <hi>W. Sheppard</hi> Eſquire, in <hi>Octavo,</hi> Price 1 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>Star-Chamber Caſes;</hi> ſhewing what Cauſes properly belong to the Cognizance of that <hi>Court:</hi> Collected for the moſt part out of Mr. <hi>Cromptons</hi> Book of the <hi>Iurisdiction</hi> of <hi>Courts,</hi> in <hi>Quarto,</hi> Price 8 <hi>d.</hi>
+            </p>
+            <p>
+               <hi>Tranſactions</hi> of the <hi>High Court</hi> of <hi>Chancery</hi> both by Practice and Preſident, with Fees and ſpecial Orders in extraordinary Caſes, by <hi>Will. Tothill</hi> Eſquire: and Revived by Sir <hi>Rob. Holborne</hi> late Bencher of <hi>Lincolns</hi>-Inne, in <hi>Octavo,</hi> Price 2 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>Conſiderations</hi> for regulating the <hi>Exchequer,</hi> in the more timely an<g ref="char:EOLhyphen"/>ſwering, better husbanding, and more orderly and ſafe conduct of the Reve<g ref="char:EOLhyphen"/>nues
+<pb n="25" facs="tcp:105078:18"/> of the Crown into his Majeſties Coffers, as hath been heretofore uſed by Sheriffs. And for freeing the Subject from all unjuſt vexations con<g ref="char:EOLhyphen"/>cerning the ſame. With the Cauſes and Remedies of the inconveniencies which have been occaſioned by the breach of the Laws, and antient courſe of the <hi>Exchequer, per <hi>C. Vernon,</hi> de Saccario Dom. Regis.</hi> in <hi>Octavo,</hi> Price 1 <hi>s.</hi>
+            </p>
+            <p>The <hi>Iuriſdiction</hi> of the <hi>Admiralty</hi> of <hi>England</hi> aſſerted againſt Sir <hi>Edward Coke's <hi>Articuli Admiralitatis</hi>
+               </hi> in 22. Chapter of his <hi>Iuriſdiction</hi> of <hi>Courts,</hi> by <hi>Rich. Zouch</hi> Doctor of the Civil Laws, and late Judge of the High Court of <hi>Admiralty,</hi> in <hi>Octavo,</hi> Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <pb n="26" facs="tcp:105078:19"/>
+            <pb n="27" facs="tcp:105078:19"/>
+            <head>CROWN.</head>
+            <p>* <hi>PLeas</hi> of the <hi>Crown,</hi> divided into ſeveral Titles and Com<g ref="char:EOLhyphen"/>mon-places; to which is ad<g ref="char:EOLhyphen"/>ded an Expoſition of the Kings <hi>Prero<g ref="char:EOLhyphen"/>gative,</hi> collected out of the Abridge<g ref="char:EOLhyphen"/>ment of <hi>Fitzherbert,</hi> and other old Writers of the Laws of <hi>England:</hi> by the Reverend Judge Sir <hi>William Stamford</hi> Knight, in <hi>Quarto, <hi>French.</hi>
+               </hi> Price 6 <hi>s.</hi>
+            </p>
+            <p>* The <hi>Third Part</hi> of the <hi>Inſtitutes</hi> of the <hi>Laws</hi> of <hi>England</hi> concerning <hi>High-Treaſon,</hi> and other <hi>Pleas</hi> of the <hi>Crown</hi> and criminal Cauſes: The <hi>Fourth Edition.</hi> To which is added a <hi>Table,</hi> by Sir <hi>Edward Coke</hi> Knight, in <hi>Folio,</hi> Price 6 <hi>s.</hi>
+            </p>
+            <p>De <hi>Pace Regis</hi> &amp; <hi>Regni, <hi>viz.</hi>
+               </hi> A <hi>Treatiſe</hi> declaring which be the great
+<pb n="28" facs="tcp:105078:20"/> and general Offences of the <hi>Realm,</hi> and the chief Impediments of the Peace of the King and Kingdom, as <hi>Treaſons, Homicides,</hi> and <hi>Felonies,</hi> &amp;c. and how many, and what ſorts of them there be, and by whom, and what means the ſaid Offences, and the Offenders therein are to be reſtrained, repreſſed, or puniſhed. Collected out of the <hi>Common</hi> and <hi>Statute Law</hi> of the Realm, by <hi>Ferdinando Pulton</hi> of <hi>Lincolns-Inne</hi> Eſquire, in <hi>Folio,</hi> Price 10 <hi>s.</hi>
+            </p>
+            <p>The <hi>Rights</hi> of the <hi>Crown</hi> of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> as it is eſtabliſhed by Law: by <hi>Edward Bagſhaw</hi> Eſquire, in <hi>Octavo,</hi> Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <pb n="29" facs="tcp:105078:20"/>
+            <pb n="30" facs="tcp:105078:21"/>
+            <head>CUSTOMS.</head>
+            <p>* <hi>REports</hi> of ſpecial Caſes of the <hi>Liberties,</hi> antient <hi>Cu<g ref="char:EOLhyphen"/>ſtoms,</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>ſages</hi> of the City of <hi>London,</hi> by Sir <hi>H. Calthrop</hi> ſomtimes Recorder thereof, &amp;c. in <hi>O<g ref="char:EOLhyphen"/>ctavo,</hi> Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>The <hi>City Law,</hi> ſhewing the <hi>Cu<g ref="char:EOLhyphen"/>ſtoms, Franchiſes, Liberties, Priviledges</hi> and <hi>Immunities</hi> of the famous City of <hi>London:</hi> Together with the Name, Natures, Kinds, <hi>Juriſdictions,</hi> Powers, and Proceedings of the ſeveral <hi>Courts</hi> within the ſame, in <hi>Octavo,</hi> Price 1 <hi>s.</hi>
+            </p>
+            <p>The <hi>Cuſtoms</hi> of <hi>Normandy,</hi> in <hi>Folio,</hi> Price 20 <hi>s.</hi>
+            </p>
+            <p>* The <hi>Perambulation</hi> of <hi>Kent,</hi> con<g ref="char:EOLhyphen"/>taining the <hi>Deſcription, Hiſtory and Cuſtoms</hi> of that County: Written by
+<pb n="31" facs="tcp:105078:21"/> 
+               <hi>William Lambard</hi> of <hi>Lincolns-Inne. <hi>Corrected</hi>
+               </hi> and <hi>Enlarged.</hi> To which is added the Charters, Laws and Pri<g ref="char:EOLhyphen"/>viledges of the Cinque Ports, in <hi>Octavo,</hi> Price 6 <hi>s.</hi>
+            </p>
+            <p>A <hi>Treatiſe</hi> of <hi>Gavelkind</hi> both Name and Thing, ſhewing the true <hi>Etymologie</hi> and Derivation of the one, the <hi>Nature, Antiquity</hi> and <hi>Original</hi> of the other; with ſundry emergent Obſervations, by <hi>William Somner</hi> in <hi>Quarto,</hi> Price 2 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>The <hi>Hiſtory</hi> of <hi>Gavelkind</hi> with the <hi>Etymologie</hi> thereof, containing a Vin<g ref="char:EOLhyphen"/>dication of the <hi>Laws</hi> of <hi>England:</hi> To<g ref="char:EOLhyphen"/>gether with a ſhort Hiſtory of <hi>Willi<g ref="char:EOLhyphen"/>am</hi> the <hi>Conquerour,</hi> by <hi>Silas Taylor</hi> Gent. in <hi>Quarto,</hi> Price 3 <hi>s.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <pb n="32" facs="tcp:105078:22"/>
+            <pb n="33" facs="tcp:105078:22"/>
+            <head>INTERPRETERS OF Law Termes.</head>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: A <hi>Law Di<g ref="char:EOLhyphen"/>ctionary.</hi> Interpreting ſuch difficult and obſcure <hi>Words</hi> and <hi>Terms,</hi> as are found either in our <hi>Common</hi> or <hi>Statute,</hi> Antient or Modern <hi>Laws,</hi> with References of the ſeveral <hi>Statutes, Records, Regiſters, Law-Books, Charters,</hi> Antient <hi>Deeds</hi> and <hi>Manu<g ref="char:EOLhyphen"/>ſcripts</hi> wherein the words are uſed: and <hi>Etymologies,</hi> where they properly oc<g ref="char:EOLhyphen"/>cur, by <hi>Tho. Blount</hi> of the Inner <hi>Tem<g ref="char:EOLhyphen"/>ple</hi> Eſquire, in <hi>Folio,</hi> Price 8 <hi>s.</hi>
+            </p>
+            <p>The <hi>Interpreter:</hi> Containing the Signification of Words. Wherein is ſet forth the true meaning of all, or the moſt part of ſuch Words and
+<pb n="34" facs="tcp:105078:23"/> Termes as are mentioned in the <hi>Law-Writers</hi> and <hi>Statutes</hi> of this <hi>Kingdome,</hi> requiring any <hi>Expoſition</hi> or <hi>Interpreta<g ref="char:EOLhyphen"/>tion.</hi> Collected by <hi>Iohn Cowell</hi> Doctor, ſomtime the Kings Profeſſor of the Civil Law im <hi>Cambridge,</hi> in <hi>Folio,</hi> Price 6 <hi>s. This Book is reprinting with Addi<g ref="char:EOLhyphen"/>tions.</hi>
+            </p>
+            <p>* A <hi>Philological Commentary:</hi> or An <hi>Illuſtration</hi> of the moſt obvious and uſeful <hi>Words</hi> in the <hi>Law,</hi> with their Diſtinctions and divers Acceptations, as they are found as well in <hi>Reports</hi> Antient and Modern, as in <hi>Records</hi> and <hi>Memorials</hi> never printed; The <hi>Second Edition:</hi> Reviewed and In<g ref="char:EOLhyphen"/>larged by <hi>Edward Leigh</hi> Gent. ſome<g ref="char:EOLhyphen"/>times of the Middle <hi>Temple,</hi> in <hi>Octavo,</hi> Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>* Sir <hi>Henry Spelmans Gloſſary;</hi> con<g ref="char:EOLhyphen"/>taining Barbarous Latine, foreign, obſolete, and adopted Termes; which (after <hi>Europe</hi> was over-run by the in<g ref="char:EOLhyphen"/>undation of <hi>Gothes</hi> and <hi>Vandals</hi>) were introduced in <hi>Eccleſiaſtical</hi> and <hi>Pro<g ref="char:EOLhyphen"/>phane Writers;</hi> and alſo thoſe which occur in the antient Municipial Laws, Charters, and Inſtruments of divers Nations. Illuſtrated with <hi>Gloſſes</hi> and
+<pb n="35" facs="tcp:105078:23"/> 
+               <hi>Commentaries,</hi> in which are declared many antient Rites, Magiſtracies, Dig<g ref="char:EOLhyphen"/>nities, Charges, Offices, Manners, Lawes themſelves, and Cuſtoms, in <hi>Fo<g ref="char:EOLhyphen"/>lio, <hi>Latine,</hi>
+               </hi> Price 30 <hi>s.</hi>
+            </p>
+            <p>De <hi>Verborum Significatione;</hi> the Expoſition of the Termes and difficil words contained in the four Books of <hi>Regiam Majeſtatem,</hi> and others, in the Acts of Parliament, Infeftments, and uſed in practique of this Realm, and with divers Rules, and Common Pla<g ref="char:EOLhyphen"/>ces, or Principals of the Laws. Colle<g ref="char:EOLhyphen"/>cted and Expounded by Mr. <hi>Iohn Skene</hi> Clerk of our Soveraign Lord's Regiſter, Councel and Rolls, in <hi>Quar<g ref="char:EOLhyphen"/>to,</hi> Price 2 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>* The <hi>Termes</hi> of the <hi>Law,</hi> or cer<g ref="char:EOLhyphen"/>tain difficult and obſcure Words and Termes of the Common Laws and Sta<g ref="char:EOLhyphen"/>tutes of this Realm now in uſe, Ex<g ref="char:EOLhyphen"/>pounded and Explained, newly <hi>Corre<g ref="char:EOLhyphen"/>cted</hi> and <hi>Enlarged:</hi> With an Addition of above one hundred Words, by <hi>T. B.</hi> Eſquire, in <hi>Octavo, <hi>French</hi>
+               </hi> and <hi>Engliſh,</hi> Price 4 <hi>s.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <pb n="34" facs="tcp:105078:24"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="35" facs="tcp:105078:24"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="36" facs="tcp:105078:25"/>
+            <pb n="37" facs="tcp:105078:25"/>
+            <head>Juſtice of Peace.</head>
+            <p>
+               <hi>BOlton</hi> of the Office of a <hi>Iuſtice</hi> of <hi>Peace</hi> in <hi>Ireland,</hi> in <hi>Folio,</hi> Price 20 <hi>s.</hi>
+            </p>
+            <p>* The <hi>Compleat Iuſtice,</hi> being an exact and compendious Colle<g ref="char:EOLhyphen"/>ction out of ſuch as have treat<g ref="char:EOLhyphen"/>ed of the Office of Juſtices of the Peace; but principally out of Mr. <hi>Lambert,</hi> Mr. <hi>Crompton,</hi> and Mr. <hi>Dalton:</hi> Now amplified and purged from ſundry Errors which were in the former Impreſſions: Whereunto are added the Reſolutions of the Judges of Aſſizes in the Year 1633. Together with a Compendious charge to be gi<g ref="char:EOLhyphen"/>ven at the Quarter Seſſions, not in print till 1661. in <hi>Twelves,</hi> Price 2 <hi>s.</hi>
+            </p>
+            <p>* The <hi>Country Iuſtice;</hi> Contain<g ref="char:EOLhyphen"/>ing the Practice of the Juſtices of the Peace, as well in, as out of their Seſ<g ref="char:EOLhyphen"/>ſions, by <hi>Michael Dalton</hi> of <hi>Lincolns-Inne</hi> Eſquire, and one of the Maſters of
+<pb n="38" facs="tcp:105078:26"/> 
+               <hi>Chancery.</hi> Now again <hi>Enlarged</hi> with many Preſidents, and Reſolutions of the Queries contained in the former Impreſſions: and the <hi>Statutes</hi> of King <hi>Charles</hi> 1. and King <hi>Charles</hi> 2. added under their ſeveral Titles, by <hi>T. M.</hi> one of the ſame Society, in <hi>Folio,</hi> Price 8 <hi>s.</hi>
+            </p>
+            <p>The <hi>Office</hi> of a <hi>Iuſtice</hi> of <hi>Peace:</hi> Together with Inſtructions how, and in what manner Statutes ſhall be Ex<g ref="char:EOLhyphen"/>pounded, by <hi>William Fleetwood</hi> ſomtime Recorder of <hi>London,</hi> in <hi>Octavo,</hi> Price 1 <hi>s.</hi>
+            </p>
+            <p>The <hi>Office</hi> and <hi>Authority</hi> of <hi>Iuſtices</hi> of <hi>Peace,</hi> in part Collected by Sir <hi>Anthony Fitzherbert</hi> Knight, late one of the Juſtices of the <hi>Common Bench:</hi> Inlarged by <hi>Richard Crompton</hi> Eſq Whereunto is annexed the Office of Sheriffs, Bayliffs, Eſcheators, Conſta<g ref="char:EOLhyphen"/>bles, Coroners, &amp;c. Collected by the ſaid Sir <hi>Anthony Fitzherbert,</hi> in <hi>Quar<g ref="char:EOLhyphen"/>to, <hi>French.</hi>
+               </hi> Price 6 <hi>s.</hi>
+            </p>
+            <p>The Book called The <hi>Mirrour</hi> of <hi>Iu<g ref="char:EOLhyphen"/>ſtices,</hi> by <hi>Andrew Horne,</hi> in <hi>Octavo, <hi>French,</hi> Price 2 s. The ſame is alſo Tranſlated into Engliſh,</hi> with a Treatiſe added, called The <hi>Diverſity</hi> of <hi>Courts</hi>
+               <pb n="39" facs="tcp:105078:26"/> with their <hi>Iurisdiction,</hi> in <hi>Octavo,</hi> Price 2 <hi>s.</hi>
+            </p>
+            <p>* <hi>Iuſtice Reſtored:</hi> or a Guide for his Majeſties Juſtices of Peace, both in Seſſions and out of Seſſions; accord<g ref="char:EOLhyphen"/>ing to the Antient Laws of the King<g ref="char:EOLhyphen"/>dome. The <hi>Second Edition</hi> amended and enlarged, in <hi>Twelves,</hi> Price 1 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>Iuſtice Revived;</hi> being the whole Office of a Country Juſtice of the Peace, briefly, and yet more metho<g ref="char:EOLhyphen"/>dically and fully then ever yet Extant, by <hi>E. W.</hi> of <hi>Grayes-Inne</hi> Eſquire, in <hi>Octavo,</hi> Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>* <hi>Eirenarcha;</hi> or The <hi>Office</hi> of the <hi>Iuſtices</hi> of <hi>Peace,</hi> in four Books. To which is added The <hi>Duty</hi> of <hi>Conſta<g ref="char:EOLhyphen"/>bles,</hi> &amp;c. <hi>Reviſed, Corrected</hi> and <hi>En<g ref="char:EOLhyphen"/>larged</hi> by <hi>William Lambert</hi> of <hi>Lin<g ref="char:EOLhyphen"/>colns-Inne</hi> Gent. in <hi>Octavo,</hi> Price 6 <hi>s.</hi>
+            </p>
+            <p>* A <hi>Sure Guide</hi> for his Majeſties <hi>Iuſtices</hi> of <hi>Peace;</hi> plainly ſhewing their Duty, and the Duties of the ſe<g ref="char:EOLhyphen"/>veral Officers of the Counties, Hun<g ref="char:EOLhyphen"/>dreds and Pariſhes, <hi>viz.</hi> Sheriffs, County-Treaſurers, Bridewel-Maſters, Conſtables, Overſeers of the Poor, Surveyors of the High-ways, and Churchwardens, &amp;c. with the Heads
+<pb n="40" facs="tcp:105078:27"/> of the Statutes concerning the Do<g ref="char:EOLhyphen"/>ctrine and Canons of the Church of <hi>England.</hi> Methodically digeſted into 58 Chapters, by <hi>Will. Sheppard</hi> Eſquire. The <hi>Second Edition Corrected</hi> and <hi>En<g ref="char:EOLhyphen"/>larged,</hi> in <hi>Octavo,</hi> Price 3 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>The <hi>Iuſtice</hi> of <hi>Peace</hi> his <hi>Clerks Cabinet;</hi> or a Book of Preſidents or Warrants, fitted and made ready to his hand for every Caſe that may hap<g ref="char:EOLhyphen"/>pen within the Compaſs of his Maſters Office, by <hi>Will. Sheppard</hi> Eſquire, in <hi>Octavo,</hi> Price 1 <hi>s.</hi>
+            </p>
+            <p>* A <hi>Vade Mecum,</hi> or <hi>Table</hi> con<g ref="char:EOLhyphen"/>taining the Subſtance of ſuch Statutes wherein any one or more Juſtices of the Peace are inabled to act, as well in the Seſſions, as out of the Seſſions of the Peace: Together with an <hi>Epitome</hi> of Mr. <hi>Stamfords Pleas</hi> of the <hi>Crown;</hi> The <hi>Seventh Edition:</hi> by <hi>Wa. Young</hi> Eſquire, in <hi>Twelves,</hi> Price 1 <hi>s.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <pb n="41" facs="tcp:105078:27"/>
+            <pb n="42" facs="tcp:105078:28"/>
+            <head>Maxims and Grounds of the Law.</head>
+            <p>
+               <hi>FAſciculus Florum;</hi> or a handful of Flowers gathered out of the ſeveral Books of Sir <hi>Edward Coke</hi> Knight, by <hi>Tho. Aſh</hi> in <hi>Octavo, <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi>
+               </hi> and <hi>Latine,</hi> Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>The <hi>Elements</hi> of the <hi>Common Laws</hi> of <hi>England</hi> in a double Tract; the one containing ſome Rules and Maxims of the Common Law: the other the uſe of the Common Law, according to the Laws and Cuſtoms of this Land, by Sir <hi>Francis Bacon</hi> Knight, in <hi>Quarto,</hi> Price 2 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>Inſtitutions</hi> of the <hi>Laws</hi> of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> Compoſed and Digeſted accord<g ref="char:EOLhyphen"/>ing to the Method and Order of the Imperial Inſtitutions, by <hi>Iohn Cowell</hi> Dr. of the Civil Law, and <hi>Regius</hi> Pro<g ref="char:EOLhyphen"/>feſſor
+<pb n="43" facs="tcp:105078:28"/> in the Univerſity of <hi>Cambridge,</hi> in <hi>Octavo, <hi>Latine.</hi>
+               </hi> Price 2 <hi>s. The ſame is alſo Tranſlated into Engliſh,</hi> in <hi>Octavo,</hi> Price 2 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>Two Dialogues between a <hi>Do<g ref="char:EOLhyphen"/>ctour</hi> of Divinity, and a <hi>Student</hi> in the Laws of <hi>England,</hi> of the <hi>Grounds</hi> of the ſaid <hi>Laws,</hi> and of <hi>Conſcience,</hi> in <hi>O<g ref="char:EOLhyphen"/>ctavo, <hi>Latine.</hi>
+               </hi> Price 1 <hi>s.</hi> 6 <hi>d. The ſame is alſo rendred into Engliſh,</hi> and <hi>Reviſed,</hi> in <hi>Octavo,</hi> Price 2 <hi>s.</hi>
+            </p>
+            <p>The <hi>Grounds</hi> of the <hi>Laws</hi> of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> Extracted from the Fountains of all other Learning: and digeſted Me<g ref="char:EOLhyphen"/>thodically into Caſes; with a Com<g ref="char:EOLhyphen"/>mixtion of divers ſcattered grounds concerning the reaſonable conſtructi<g ref="char:EOLhyphen"/>on of the Law; by <hi>M. Hawke</hi> of the <hi>Middle-Temple,</hi> in <hi>Octavo,</hi> Price 3 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>
+               <hi>Inſtitutions,</hi> or principal Grounds of the <hi>Laws</hi> and <hi>Statutes</hi> of <hi>England; <hi>Corrected</hi>
+               </hi> and <hi>Amended,</hi> in <hi>Octavo,</hi> Price 1 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>Littleton's Tenures,</hi> in <hi>French,</hi> Price 1 <hi>s.</hi> 6 <hi>d. The ſame is alſo in Eng<g ref="char:EOLhyphen"/>liſh,</hi> in <hi>Octavo,</hi> Price 1 <hi>s.</hi> 6 <hi>d.</hi> and newly printed together 1670. in <hi>French</hi> and <hi>Engliſh,</hi> and exactly <hi>Corrected,</hi> in <hi>Twelves,</hi> Price 2 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <pb n="44" facs="tcp:105078:29"/>
+            <p>A Treatiſe of the principal <hi>Grounds</hi> and <hi>Maxims</hi> of the <hi>Laws</hi> of this Na<g ref="char:EOLhyphen"/>tion, Written by <hi>W. Noy</hi> of <hi>Lincolns-Inne</hi> Eſquire, in <hi>Octavo,</hi> Price 1 <hi>s.</hi>
+            </p>
+            <p>* The <hi>Compleat Lawyer;</hi> or a Trea<g ref="char:EOLhyphen"/>tiſe concerning Tenures and Eſtates in Lands of Inheritance for Life, and other Hereditaments and Chattels re<g ref="char:EOLhyphen"/>al and perſonal; and how any of them may be conveyed in a legal Form by Fine, Recovery, Deed or Word, as the Caſe ſhall require; by <hi>William Noy</hi> late Attorney General to King <hi>Charles</hi> 1. with Obſervations on the Authors Life, in <hi>Octavo,</hi> Price 1 <hi>s.</hi>
+            </p>
+            <p>The <hi>Principles</hi> of the <hi>Law</hi> reduced to Practice, by <hi>Will. Phillips,</hi> in <hi>Twelves,</hi> Price 1 <hi>s.</hi>
+            </p>
+            <p>A profitable Book of Mr. <hi>Iohn Per<g ref="char:EOLhyphen"/>kins</hi> Fellow of the <hi>Inner-Temple,</hi> treat<g ref="char:EOLhyphen"/>ing of the <hi>Laws</hi> of <hi>England,</hi> in <hi>French,</hi> Price 2 <hi>s. The ſame is alſo Tranſlated into Engliſh,</hi> in <hi>Octavo,</hi> Price 2 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>Maxims</hi> of <hi>Reaſon;</hi> or the Reaſon of the Common Law of <hi>England,</hi> by <hi>Edmund Wingate</hi> late of <hi>Grayes-Inne</hi> Eſquire, in <hi>Folio,</hi> Price 14 <hi>s.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <pb n="45" facs="tcp:105078:29"/>
+            <pb n="46" facs="tcp:105078:30"/>
+            <head>PARLIAMENT.</head>
+            <p>THe opinions of ſundry learned Antiquaries, <hi>viz.</hi> Mr. Juſtice <hi>D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>de<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ige,</hi> Mr. <hi>Agar,</hi> &amp;c. touching the Antiquity, &amp;c. and Pro<g ref="char:EOLhyphen"/>ceedings of the High Court of <hi>Parli<g ref="char:EOLhyphen"/>ament</hi> in <hi>England,</hi> in <hi>Octavo,</hi> Price 1 <hi>s.</hi>
+            </p>
+            <p>A <hi>Manual,</hi> or brief Treatiſe of ſome particular Rights and Priviledges belonging to the High Court of <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> by <hi>Robert Derham</hi> of <hi>Grayes-Inne</hi> Eſquire, in <hi>Octavo,</hi> Price 1 <hi>s</hi>
+            </p>
+            <p>The antient Method and Manner of holding of <hi>Parliaments</hi> in <hi>England:</hi> being the Collections of <hi>Henry El<g ref="char:EOLhyphen"/>ſynge</hi> Eſquire, in <hi>Octavo,</hi> Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>
+               <hi>Ephemeris Parliamentaria;</hi> or a faithful Regiſter of the Tranſactions in <hi>Parliament,</hi> in the third and fourth
+<pb n="47" facs="tcp:105078:30"/> years of the Reign of King <hi>Charles</hi> the Firſt; containing ſeveral Speeches, Caſes, and Arguments of the Law tranſacted between his Majeſty and both Houſes, in <hi>Folio,</hi> Price 6 <hi>s.</hi>
+            </p>
+            <p>The <hi>Manner</hi> how <hi>Statutes</hi> are ena<g ref="char:EOLhyphen"/>cted in <hi>Parliament</hi> by <hi>Paſſing</hi> of <hi>Bills,</hi> by <hi>W. Hakewill</hi> of <hi>Lincolns-Inne</hi> Eſq in <hi>Octavo,</hi> Price 1 <hi>s.</hi>
+            </p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; or an Hiſtorical Diſcourſe of <hi>Parliaments</hi> and their Original before the Conqueſt, and con<g ref="char:EOLhyphen"/>tinuance ſince: Together with the O<g ref="char:EOLhyphen"/>riginal, growth, and continuance of theſe Courts following, <hi>viz.</hi> High Court of Chancery, Upper Bench, Common Pleas, Exchequer, Dutchy, and other inferiour Courts, in <hi>Octavo,</hi> price 1 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>Modus tenendi Parliament.</hi> The manner of holding Parliaments, &amp;c. by <hi>W. Hakewill,</hi> in <hi>Octavo,</hi> Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>The <hi>Manner</hi> and <hi>Method</hi> of Paſſing Bills in <hi>Parliament,</hi> in <hi>Quarto,</hi> Price 6 <hi>d.</hi>
+            </p>
+            <p>The <hi>Practice</hi> and <hi>Priviledges</hi> of <hi>Parliament,</hi> in <hi>Quarto,</hi> Price 6 <hi>d.</hi>
+            </p>
+            <p>
+               <hi>Pleadings</hi> in <hi>Parliament,</hi> with the
+<pb n="48" facs="tcp:105078:31"/> Judgments thereon, in the Reigns of <hi>Edw.</hi> 1. and <hi>Edw.</hi> 2. with an <hi>Appen<g ref="char:EOLhyphen"/>dix</hi> containing a Collection of ſome Copies of Statutes, Ordinances, Pro<g ref="char:EOLhyphen"/>viſions, &amp;c. As alſo of ſome other Records which prove the homage an<g ref="char:EOLhyphen"/>tiently due to the Kings of <hi>England</hi> from <hi>Scotland;</hi> and the eſtabliſhment of <hi>Ireland</hi> under the Laws of <hi>England:</hi> With ſeveral Petitions in Parliament, by <hi>William Ryley</hi> of the <hi>Inner-Temple</hi> Gent. in <hi>Folio, <hi>Latin,</hi>
+               </hi> Price 18 <hi>s.</hi>
+            </p>
+            <p>The <hi>Priviledges</hi> of the <hi>Baronage</hi> of <hi>England,</hi> when they ſit in Parlia<g ref="char:EOLhyphen"/>ment. Collected (and of late reviſed) by <hi>Iohn Selden</hi> of the Inner <hi>Temple,</hi> Eſquire, out of the Parliament Rolls, &amp;c. in <hi>Octavo,</hi> Price 1 <hi>s.</hi>
+            </p>
+            <p>The <hi>Grand Queſtion</hi> concerning the <hi>Iudicature</hi> of the <hi>Houſe</hi> of <hi>Peers</hi> Stated and Argued; and the Caſe of <hi>Thomas Skinner</hi> Merchant, complaining of the Eaſt-India Com<g ref="char:EOLhyphen"/>pany, which gave occaſion to that Queſtion, faithfully related, by a true well wiſher to the Peace and good Go<g ref="char:EOLhyphen"/>vernment of the Kingdom, and to the Dignity and Authority of Parliaments, in <hi>Octavo,</hi> Price 8 <hi>s.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <pb n="49" facs="tcp:105078:31"/>
+            <pb n="50" facs="tcp:105078:32"/>
+            <head>PRESIDENTS.</head>
+            <p>
+               <hi>PLacita Latine Rediviva;</hi> A Book of Entries; Containing perfect and approved Preci<g ref="char:EOLhyphen"/>dents of Counts, Declarations, Barrs, Avowries, Replications, Pleas in a<g ref="char:EOLhyphen"/>batement, Iſſues, Judgments, as well in Actions Real as Perſonal, and ſundry other Entries, not heretofore pub<g ref="char:EOLhyphen"/>liſhed in Print. Collected in the times, and out of ſome of the Manuſcripts of thoſe famous and learned Prothonota<g ref="char:EOLhyphen"/>ries <hi>Richard Brownlow, John Gulston, Robert Moyl,</hi> and <hi>Tho. Cory,</hi> Eſquires, and digeſted into an exact Method, by <hi>R. Aſton</hi> of <hi>Furnivals</hi>-Inne, in <hi>Quarto, <hi>Latine.</hi>
+               </hi> Price 6. <hi>s.</hi>
+            </p>
+            <p>The <hi>Attorney's Guide</hi> for ſuing out of Fines, Concords, and Recoveries, &amp;c. being choice and exact Preſidents for all ſorts of Fines, Concords, and Re<g ref="char:EOLhyphen"/>coveries: Together with full Inſtru<g ref="char:EOLhyphen"/>ctions
+<pb n="51" facs="tcp:105078:32"/> in all Proceedings relating thereunto, and the certain charges of the ſame. Peruſed and approved by <hi>G. T.</hi> an able Practitioner and others, in <hi>Octavo,</hi> Price 2 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>Brevia Iudicialia;</hi> or an exact <hi>Collection</hi> of approved <hi>Forms</hi> of all ſorts of <hi>Judicial Writs</hi> in the <hi>Com<g ref="char:EOLhyphen"/>mon Bench,</hi> as well Meaſne Proceſs before appearance, as Execution af<g ref="char:EOLhyphen"/>ter Judgment, with the ſeveral Entries thereof upon Record, with farther Proceſs awarded thereupon; with the Returns of the ſaid Writs. Collected out of the Manuſcripts of <hi>Richard Brownlow</hi> Eſquire, late chief <hi>Protho<g ref="char:EOLhyphen"/>notary</hi> of the ſaid Court, in <hi>Folio, <hi>La<g ref="char:EOLhyphen"/>tine.</hi>
+               </hi> Price 10 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>Brevia Selecta;</hi> or choice <hi>Writs,</hi> being a Collection of divers ſpecial Writs not taken notice of in the Writ-Books lately put forth; many of them being Extents directed to Biſhops, Prohibitions, Conſultations, Proceſs upon appeal of <hi>Murder;</hi> Writs dire<g ref="char:EOLhyphen"/>cted to Counties Palatine, &amp;c. taken out of the Manuſcripts of Mr. <hi>Richard Antrobus,</hi> and Mr. <hi>Tho. Impey,</hi> late Attorneys in the Courts of <hi>Kings-Bench</hi>
+               <pb n="52" facs="tcp:105078:33"/> and <hi>Common Pleas,</hi> in <hi>Octavo, <hi>Latine,</hi>
+               </hi> Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>
+               <hi>Declarations</hi> and <hi>Pleadings</hi> in Engliſh, Collected by <hi>Rich. Brownlow</hi> Eſquire, late chief Prothonotary of the Court of <hi>Common Pleas.</hi> Whereto are added choice <hi>Preſidents</hi> in the Upper Bench, by ſome others of good note, in two Parts, in <hi>Quarto,</hi> Price 14 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>Writs Iudicial,</hi> ſhewing the Forms, Nature and Entries of all manner of Executions, in Real, Perſonal, and mixt Actions, as they are uſed in the Court of <hi>Common Pleas,</hi> &amp;c. Where<g ref="char:EOLhyphen"/>unto is added a <hi>Collection</hi> of the Forms both of Judicial and other ſpecial Writs belonging to the practice of the Court of <hi>Kings-Bench.</hi> Collected out of the <hi>Preſidents</hi> of <hi>Richard Brownlow</hi> Eſquire, in <hi>Quarto,</hi> Price 3 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>A <hi>Book</hi> of <hi>Entries,</hi> containing Preſidents of Counts, Declarations, Informations, Plaints, Inditements; Barrs, Replications, &amp;c. and all other Matters and Proceedings (in effect) concerning the Practique part of the Laws of <hi>England,</hi> in Actions, Real,
+<pb n="53" facs="tcp:105078:33"/> Perſonal, and Mixt, and in Appeals; Collected by Sir <hi>Edward Coke</hi> Knight, in <hi>Folio, <hi>Latine.</hi>
+               </hi> Price 3 <hi>l.</hi>
+            </p>
+            <p>The <hi>Clerks Vade Mecum;</hi> or a choice Collection of Modern Preſidents according to the beſt Forms extant, and ſuch as have not formerly been printed: Containing all ſorts of Bar<g ref="char:EOLhyphen"/>gains and Sales, Leaſes, Mortgages, Grants, Covenants, Surrenders, &amp;c. Peruſed by <hi>T. P.</hi> Barriſter, in <hi>Octavo,</hi> Price 3 <hi>s.</hi>
+            </p>
+            <p>The <hi>Young Clerks Guide;</hi> or an exact Collection of choice Engliſh Preſidents, according to the beſt Forms now uſed, for all ſorts of Indentures, Letters of Attorney, Releaſes, Condi<g ref="char:EOLhyphen"/>tions, &amp;c. in three Parts. Compiled by <hi>R. H.</hi> Counſellor, in <hi>Octavo,</hi> Price 4 <hi>s.</hi>
+            </p>
+            <p>* The <hi>Young Clerks Tutor,</hi> being a Collection of the beſt Preſidents of Recognizances, Obligations, Conditi<g ref="char:EOLhyphen"/>ons, Acquittances, Bills of Sale, War<g ref="char:EOLhyphen"/>rants of Attorney, &amp;c. As alſo all the Names of Men and Women in Latine, with the day of the Date, the ſeveral ſums of money, and the addition of the ſeveral Trades or Imployments in their
+<pb n="54" facs="tcp:105078:34"/> proper Caſes, as they ſtand in the Ob<g ref="char:EOLhyphen"/>ligations: Together with Directions of Writs of <hi>Habeas Corpus,</hi> Writs of Error, &amp;c. to the inferiour Courts in Cities and Towns: Likewiſe the beſt Preſidents of all manner of Concords of Fines, and Directions how to ſue out a Fine with many judicious Ob<g ref="char:EOLhyphen"/>ſervations therein, in <hi>Octavo,</hi> Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>The <hi>Young Clerks Companion,</hi> or a Manual for his dayly practice: where<g ref="char:EOLhyphen"/>in are contained modern Preſidents, fitted for all Occaſions of preſent uſe, in <hi>Twenty-fours,</hi> Price 1 <hi>s.</hi>
+            </p>
+            <p>* The <hi>Compleat Clerk,</hi> containing Forms of all ſorts of Preſidents for Conveyances and Aſſurances; and o<g ref="char:EOLhyphen"/>ther Inſtruments now in uſe and pra<g ref="char:EOLhyphen"/>ctice: with the Forms of Bills, Pleadings and Anſwers in <hi>Chancery,</hi> as they have been occaſionally compoſed by the advice of many eminent Lawyers. The <hi>Second Edition</hi> very much Enlarged, in <hi>Quarto,</hi> Price 12 <hi>s.</hi>
+            </p>
+            <p>The <hi>Exact Clerk</hi> and <hi>Scriveners</hi> dayly <hi>Exerciſe;</hi> being a Compendium of all manner of Preſidents and Draughts that are now in uſe: for all
+<pb n="55" facs="tcp:105078:34"/> manner of Bills obligatory, conditions Clauſes and Proviſo's; with all man<g ref="char:EOLhyphen"/>ner of Annuities, Aſſignments, Letters of Attorney, Revocations, Grants, Releaſes, Truſts, Warrants, Witneſſes, and other things of great uſe, in <hi>Octavo,</hi> Price 1 <hi>s.</hi>
+            </p>
+            <p>The <hi>Laymans Lawyer, Reviewed</hi> and <hi>Enlarged:</hi> being a Second Part of the Practice of the Law, relating to the puniſhment of offences com<g ref="char:EOLhyphen"/>mitted againſt the publick Peace; con<g ref="char:EOLhyphen"/>taining the Forms of Proceſs, In<g ref="char:EOLhyphen"/>dictments, and proceeding to Judg<g ref="char:EOLhyphen"/>ment, as well in all manner of Crimes deſerving death, as others of corporal and pecuniary puniſhments: alſo the ſeveral Cáuſes and Caſes wherein ſuch reſpective proceedings ought to be had; Collected into Heads out of the Books of Law at large. Alſo a Diſ<g ref="char:EOLhyphen"/>courſe of pardons and remiſſions of puniſhments: The Office and Duty of a Gaoler, Conſtable, and other Aſſiſtants for the preſervation of the Peace, by <hi>Tho. Forſter</hi> Gent. in <hi>Octa<g ref="char:EOLhyphen"/>vo,</hi> Price 2 <hi>s.</hi>
+            </p>
+            <p>A perfect <hi>Guide</hi> for a <hi>Studious</hi> young <hi>Lawyer,</hi> being Preſidents for
+<pb n="56" facs="tcp:105078:35"/> Conveyances and other buſineſs of the like kind: Gathered out of the learned Labours of the learned Sages of the Law, the Lord <hi>Coke,</hi> the Lord <hi>Hobart,</hi> &amp;c. by <hi>Tho. Fidell</hi> of <hi>Furnivals</hi>-Inne Gent. in <hi>Octavo,</hi> Price 2 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>The <hi>Pleader,</hi> containing perfect <hi>Preſidents</hi> and Forms of <hi>Declarations, Pleadings, Iſſues, Judgements,</hi> and <hi>Proceedings</hi> in all kinds of Actions, real, perſonal and mixt; together with the Terms and Rolls wherein they were entred; and alſo divers points of great learning, and various Notes and Caſes to illuſtrate the ſame, as they were drawn, entred, and taken in the Times of thoſe famous <hi>Prothonotaries</hi> of the Courts of <hi>Common-Pleas, Rich. Brownlow, Rob. Moyle, John Gulſton,</hi> and <hi>Tho. Cory,</hi> Eſquires. Collected and Publiſhed by <hi>Iohn Herne,</hi> in <hi>Folio,</hi> Price 16 <hi>s.</hi>
+            </p>
+            <p>The <hi>Modern Aſſurancer;</hi> or the Clerks Directory, containing the Practick part of the Law in the exact Forms and Draughts of all manner of Preſidents, by <hi>I. Herne,</hi> in <hi>Octavo,</hi> Price 2 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>An exact <hi>Book</hi> of <hi>Entries</hi> of the
+<pb n="57" facs="tcp:105078:35"/> moſt ſelect Judicial Writs uſed in the Common-Law; Tranſlated from the original Manuſcript, which was Col<g ref="char:EOLhyphen"/>lected by that Eminent Clerk <hi>Robert Moyle</hi> Eſquire, late one of the Proto<g ref="char:EOLhyphen"/>notaries of the Court of <hi>Kings-Bench.</hi> A work of much Induſtry, as may ap<g ref="char:EOLhyphen"/>pear by the Authors great pains in quo<g ref="char:EOLhyphen"/>ting of Book-Caſes, Opinions of Judg<g ref="char:EOLhyphen"/>es, Number Rolls, and many other re<g ref="char:EOLhyphen"/>quiſites, for the confirmation of every Entry, whereof none have been ever publiſhed before, in <hi>Quarto,</hi> Price 3 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>Novae Narrationes,</hi> firſt publiſhed about the beginning of the Reign of <hi>E.</hi> 3. Containing the Forms of Counts, Declarations, Defences, Pleas, <hi>&amp;c.</hi> with the Treatiſe called <hi>Articuli ad Novas Narrationes,</hi> being a Com<g ref="char:EOLhyphen"/>mentary and Rules upon, and concern<g ref="char:EOLhyphen"/>ing the new Tales, in <hi>Octavo, <hi>Latine.</hi>
+               </hi> Price 4 <hi>s.</hi>
+            </p>
+            <p>The <hi>Perfect Conveyancer:</hi> or ſeve<g ref="char:EOLhyphen"/>ral ſelect and choice Preſidents, ſuch as have not formerly been printed. Collected by four ſeveral Sages of the Law, <hi>Edw. Henden</hi> Knight, late one of the Barons of the <hi>Exchequer, <hi>Wil<g ref="char:EOLhyphen"/>liam Noy,</hi>
+               </hi> Attorney General to his
+<pb n="58" facs="tcp:105078:36"/> late Majeſty; <hi>Robert Maſon,</hi> ſomtime Recorder of <hi>London;</hi> and <hi>Henry Fleet<g ref="char:EOLhyphen"/>wood,</hi> formerly Reader of <hi>Grayes</hi>-Inne. Wherein are contained many excellent Examples and Inſtructions touching the manner and method of Convey<g ref="char:EOLhyphen"/>ances, in <hi>Quarto,</hi> Price 5 <hi>s.</hi>
+            </p>
+            <p>* <hi>Preſidents</hi> of ſundry ſorts of In<g ref="char:EOLhyphen"/>ſtruments, both in <hi>Latine</hi> and <hi>Engliſh, <hi>viz.</hi>
+               </hi> Advowſons, Preſentations, Let<g ref="char:EOLhyphen"/>ters Miſſive, Letters Patents, Letters of Significavit, &amp;c. Indentures, Leaſes, &amp;c. and divers other uſeful Inſtru<g ref="char:EOLhyphen"/>ments, alſo Supplicants, Bills and An<g ref="char:EOLhyphen"/>ſwers in <hi>Chancery,</hi> and other Petitions in Courts of Equity, in <hi>Octavo,</hi> Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>The <hi>Old Book</hi> of <hi>Entries,</hi> contain<g ref="char:EOLhyphen"/>ing the Forms of Declarations, Pleas, Writs, <hi>&amp;c.</hi> in <hi>Folio, <hi>Latine,</hi>
+               </hi> Price 30 <hi>s.</hi>
+            </p>
+            <p>* The <hi>Regiſter</hi> of <hi>Writs,</hi> Original and Judicial, being a moſt antient Book, and of great Authority in Law, in <hi>Folio, <hi>Latine.</hi>
+               </hi> Price 22 <hi>s.</hi>
+            </p>
+            <p>* A <hi>Collection</hi> of <hi>Entries</hi> of Decla<g ref="char:EOLhyphen"/>rations, Bars, Replications, Rejoyn<g ref="char:EOLhyphen"/>ders, Iſſues, Verdicts, Judgments, Ex<g ref="char:EOLhyphen"/>ecutions, Proceſs, Continuances, Eſ<g ref="char:EOLhyphen"/>ſoyns,
+<pb n="59" facs="tcp:105078:36"/> and divers other matters. Newly <hi>Amended</hi> and much <hi>Enlarged</hi> with ma<g ref="char:EOLhyphen"/>ny good Preſidents of later times, whereof divers are upon ſundry Sta<g ref="char:EOLhyphen"/>tutes, and noted in the end of the Ta<g ref="char:EOLhyphen"/>ble, by <hi>William Raſtell</hi> Eſquire, in <hi>Folio, <hi>Latine,</hi>
+               </hi> Price 3 <hi>l.</hi>
+            </p>
+            <p>The <hi>Preſident</hi> of <hi>Preſidents,</hi> or one general Preſident for Common Aſſu<g ref="char:EOLhyphen"/>rances by Deeds: being an Extract of all the Readings and Preſidents thereof extant, by <hi>W. Sheppard</hi> Eſquire, in <hi>Quarto,</hi> Price 3 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>
+               <hi>Declarations</hi> in the <hi>Vpper Bench,</hi> with Pleas, Replications, Rejoynders, Demurres, Aſſignments of Errours: and the Entries of Judgments there<g ref="char:EOLhyphen"/>upon affirmed. Collected by <hi>W. S.</hi> one of the Clerks of the <hi>
+                  <g ref="char:V">Ʋ</g>pper Bench</hi> Office, in <hi>Quarto,</hi> Price 3 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>
+               <hi>Theſaurus Brevium:</hi> or a Colle<g ref="char:EOLhyphen"/>ction of approved Forms of Original and Judicial Writs, with their ſpecial directions to all Cities and Boroughs. Collected and publiſhed by <hi>I. C.</hi> in <hi>Folio, <hi>Latine.</hi>
+               </hi> Price 5 <hi>s.</hi>
+            </p>
+            <p>* <hi>Symboleographie:</hi> which may be termed The Art or Deſcription of Inſtruments and Preſidents. In two
+<pb n="60" facs="tcp:105078:37"/> Parts. Firſt Collected by <hi>Will. Weſt</hi> of the Inner <hi>Temple</hi> Eſquire: and ſince <hi>Augmented</hi> with divers new Preſidents not formerly printed, in <hi>Quarto,</hi> Price 14 <hi>s.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <pb n="61" facs="tcp:105078:37"/>
+            <head>READINGS.</head>
+            <p>THe <hi>Reading</hi> of Mr. <hi>Robert Brooke</hi> Serjeant at Law, and Recorder of <hi>London;</hi> upon the Statute of <hi>Magna Charta <hi>Chap.</hi>
+               </hi> 16 in <hi>Quarto,</hi> Price 6 <hi>d.</hi>
+            </p>
+            <p>The learned <hi>Reading</hi> of Sir <hi>Francis Bacon,</hi> one of her Majeſties Learned Counſell at Law, upon the <hi>Statute</hi> of <hi>Vſes;</hi> in <hi>Quarto</hi> Price, 1 <hi>s.</hi>
+            </p>
+            <p>The <hi>Reading</hi> of that Famous Lawyer Sir <hi>Robert Brooke</hi> Knight, upon the <hi>Statute</hi> of <hi>Limitations.</hi> 32. <hi>H.</hi> 8. <hi>cap.</hi> 2. in <hi>Octavo,</hi> Price 1 <hi>s.</hi>
+            </p>
+            <p>The <hi>Reading</hi> of that famous and Learned Gentleman <hi>Robert Callis</hi> E<g ref="char:EOLhyphen"/>ſquire, Serjeant at Law, upon the <hi>Sta<g ref="char:EOLhyphen"/>tute</hi> of 23 <hi>H.</hi> 8. <hi>cap.</hi> 5. Of <hi>Sewers,</hi> &amp;c. as it was delivered by him at <hi>Grayes-Inne</hi> in <hi>Auguſt</hi> 1622 in <hi>Quarto,</hi> Price 4 <hi>s.</hi>
+            </p>
+            <pb n="62" facs="tcp:105078:38"/>
+            <p>The <hi>Relation</hi> between the <hi>Lord</hi> of a <hi>Mannor</hi> and the <hi>Copy-holder</hi> his <hi>Te<g ref="char:EOLhyphen"/>nant;</hi> delivered in the Learned <hi>Read<g ref="char:EOLhyphen"/>ings</hi> of the late Excellent and Famous Lawyer <hi>Charles Calthrope</hi> of <hi>Lincolns-Inn</hi> Eſquire, in <hi>Quarto,</hi> Price 1 <hi>s.</hi>
+            </p>
+            <p>Lord <hi>Cokes Readings</hi> concerning <hi>Fines,</hi> in <hi>Quarto,</hi> Price 6 <hi>d.</hi>
+            </p>
+            <p>A <hi>Compleat Parſon,</hi> or a Deſcripti<g ref="char:EOLhyphen"/>on of <hi>Advowſons,</hi> wherein is ſet forth the Intereſt of the Parſon, Patron, and Ordinary, &amp;c. as they were delivered at ſeveral <hi>Readings</hi> at New Inn by <hi>Io. Doderidge, <hi>Anno</hi>
+               </hi> 1602, 1603. in <hi>Quar<g ref="char:EOLhyphen"/>to,</hi> Price 1 <hi>s.</hi> 6. <hi>d.</hi>
+            </p>
+            <p>
+               <hi>Denſhalls Readings</hi> concerning <hi>Fines,</hi> in <hi>Quarto,</hi> Price 6 <hi>d.</hi>
+            </p>
+            <p>The Learned <hi>Reading</hi> of <hi>Iohn Herne</hi> Eſquire, upon the Statute of 23. <hi>H.</hi> 8. <hi>Chap.</hi> 3. concerning <hi>Commiſſions of Sewers,</hi> in <hi>Quarto,</hi> Price 6 <hi>d.</hi>
+            </p>
+            <p>The <hi>Reading</hi> upon the Statute of the 13. of <hi>Eliz. chap.</hi> 7. touching <hi>Bank<g ref="char:EOLhyphen"/>rupts,</hi> Learnedly and amply explained by <hi>Iohn Stone</hi> of <hi>Grayes-Inn</hi> Eſquire in <hi>Octavo,</hi> Price 1 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>Three Learned <hi>Readings</hi>
+               </hi> made upon three uſefull Statutes; the firſt by Sir <hi>Iames Dyer</hi> of the <hi>Middle-Temple,</hi>
+               <pb n="63" facs="tcp:105078:38"/> upon the Statute of 32. <hi>H.</hi> 8. <hi>chap.</hi> 1. of <hi>Wills,</hi> and 34, and 35. <hi>H.</hi> 8 <hi>chap.</hi> 5. for the Explanation of that Statute: the ſecond by Sir <hi>Iohn Brograve</hi> of <hi>Grayes-Inn,</hi> ſometime his Majeſties Attorney of the <hi>Dutchy</hi> of <hi>Lancaſter;</hi> upon the Statute of 27. <hi>H.</hi> 8. <hi>chap.</hi> 10. concerning <hi>Ioyntures:</hi> the third by <hi>Tho. Riſden</hi> Eſquire of the <hi>Inner-Temple,</hi> upon the Statute of 8. <hi>H.</hi> 6. <hi>chap.</hi> 9. of <hi>Forcible Entry;</hi> in <hi>Quarto,</hi> Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <pb n="64" facs="tcp:105078:39"/>
+            <head>REPORTS.</head>
+            <p>THe <hi>Reports</hi> of the learned <hi>Edmund Anderſon</hi> Knight, late chief Juſtice of the <hi>Common Bench,</hi> of many principal Caſes argu<g ref="char:EOLhyphen"/>ed and adjudged in the time of the late Q. <hi>Elizabeth,</hi> as well in the <hi>Common Bench,</hi> as before all the Judges of this Realm. Collected and written by himſelf, and printed by the Original. In two parts, in <hi>Folio, <hi>French.</hi>
+               </hi> Price 14 <hi>s.</hi>
+            </p>
+            <p>The <hi>Reports</hi> of <hi>William Bendloes</hi> Serjeant at Law, of divers Reſoluti<g ref="char:EOLhyphen"/>ons and Judgments given by the Reve<g ref="char:EOLhyphen"/>rend Judges of the Law, of certain matters in the Law in the time of the Reigns of <hi>H.</hi> 8. <hi>Ed.</hi> 6. <hi>Phil.</hi> &amp; <hi>Mar.</hi> and <hi>Eliz.</hi> with other ſelect Caſes in the Law, adjudged and reſolved in the Reigns of the renowned Kings <hi>James</hi>
+               <pb n="65" facs="tcp:105078:39"/> and <hi>Charles</hi> 1. in <hi>Folio, <hi>French.</hi>
+               </hi> Price 6 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>Caſes</hi> adjudged in the time of King <hi>Richard</hi> the Second. Collected out of the <hi>Abridgments</hi> of <hi>Statham, Fitzher<g ref="char:EOLhyphen"/>bert,</hi> and <hi>Brooke,</hi> by <hi>Rich. Bellewe</hi> of <hi>Lincolns</hi>-Inn, in <hi>Octavo, <hi>French.</hi>
+               </hi> Price 2 <hi>s.</hi>
+            </p>
+            <p>The <hi>Reports</hi> of <hi>Edward Bulſtrode,</hi> of the Inner <hi>Temple</hi> Eſquire, of divers Reſolutions and Judgments given with great advice and mature deliberation, by the grave, reverend, and learned Judges and Sages of the Law; of Ca<g ref="char:EOLhyphen"/>ſes and Matters in <hi>Law,</hi> with the rea<g ref="char:EOLhyphen"/>ſons and cauſes of their ſaid Reſoluti<g ref="char:EOLhyphen"/>ons and Judgments, given in the Court of <hi>Kings-Bench,</hi> in the time of the late Reign of <hi>King Iames,</hi> and the begin<g ref="char:EOLhyphen"/>ning of <hi>King Charles</hi> the <hi>Firſt:</hi> In three Parts, in <hi>Folio,</hi> Price 24 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>Reports</hi> of divers choice Caſes in Law, taken by thoſe late and judicious Prothonotaries of the <hi>Common Pleas, <hi>Richard Brownlow</hi>
+               </hi> and <hi>I. Goldsborough</hi> Eſquires, in the time of the late <hi>King James.</hi> With directions how to pro<g ref="char:EOLhyphen"/>ceed in many intricate Actions, both real and perſonal, ſhewing the nature of thoſe Actions, and the practice in them. In two Parts, in <hi>Quarto,</hi> Price 10 <hi>s.</hi>
+            </p>
+            <pb n="66" facs="tcp:105078:40"/>
+            <p>
+               <hi>Reports</hi> of that grave and learned Judge Sir <hi>Iohn Bridgman</hi> Knight Ser<g ref="char:EOLhyphen"/>jeant at Law, ſomtime chief Juſtice of <hi>Cheſter,</hi> in the time of <hi>King Iames,</hi> in <hi>Folio,</hi> Price 5 <hi>s.</hi>
+            </p>
+            <p>The <hi>Repor s</hi> of Sir <hi>Edward Coke,</hi> heretofore chief Juſtice of <hi>England,</hi> of divers Reſolutions and Judgments gi<g ref="char:EOLhyphen"/>ven with great deliberation, by the Reverend Judges and Sages of the Law, of Caſes and Matters in Law, which were never theretofore reſolved or adjudged, and the reaſons and cauſes of the ſaid Reſolutions and Judgments, during the Reign of <hi>Queen Eliz.</hi> and <hi>King Iames,</hi> In eleven Parts, in <hi>Folio, <hi>French.</hi>
+               </hi> Price 4 <hi>l. The ſame are alſo Tranſlated into Engliſh,</hi> in <hi>Folio,</hi> Price 2 <hi>l.</hi>
+            </p>
+            <p>Theſe Eleven Reports of Sir <hi>Edw. Coke</hi> in <hi>French,</hi> will be ſhortly reprin<g ref="char:EOLhyphen"/>ted and Sold for about half the preſent Price by way of Subſcription.</p>
+            <p>The <hi>Twelfth</hi> and <hi>Thirteenth</hi> Part of the <hi>Reports</hi> of Sir <hi>Edward Coke</hi> Knight, both publiſhed ſince his death in Engliſh; of divers Reſolutions and Judgments given upon ſolemn Argu<g ref="char:EOLhyphen"/>ments, and with great deliberation and conference with the learned
+<pb n="67" facs="tcp:105078:40"/> Judges in Caſes of Law, in the Reign of <hi>King Iames;</hi> the moſt of them ve<g ref="char:EOLhyphen"/>ry famous, as being of the Kings ſpecial reſerence from the <hi>Council Table</hi> concerning the <hi>Prerogative;</hi> as for the digging of Salt-Peter, Forfeitures, Forreſts, Proclamations, <hi>&amp;c.</hi> And the Juriſdiction of the Admiralty, Com<g ref="char:EOLhyphen"/>mon Pleas, Star-Chamber, High Com<g ref="char:EOLhyphen"/>miſſion, Court of Wards, Chancery, <hi>&amp;c.</hi> And Expoſitions and Reſolutions concerning Authorities both Eccleſi<g ref="char:EOLhyphen"/>aſtical and Civil within this Realm. Alſo the Forms and Proceedings of Parliaments, both in <hi>England</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land:</hi> With an Expoſition of <hi>Poynings Law,</hi> in <hi>Folio,</hi> Price 7 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>Reports,</hi> or Cauſes in <hi>Chancery,</hi> Col<g ref="char:EOLhyphen"/>lected by Sir <hi>George Cary,</hi> one of the Maſters of the <hi>Chancery</hi> in <hi>Anno</hi> 1601. out of the Labours of Mr. <hi>William Lambert.</hi> Whereunto is added the <hi>Kings Order</hi> and <hi>Decree</hi> in <hi>Chancery,</hi> for a Rule to be obſerved by the Chan<g ref="char:EOLhyphen"/>cellor in that Court, Exemplified and Enrolled for a perpetual Record there <hi>Anno</hi> 1616. in <hi>Octavo,</hi> Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>* The <hi>Reports</hi> of Sir <hi>George Groke</hi> Knight, late one of the Juſtices of the
+<pb n="68" facs="tcp:105078:41"/> Court of <hi>Kings Bench,</hi> and formerly one of the Juſtices of the Court of <hi>Common Bench,</hi> of ſuch ſelect Caſes as were ad<g ref="char:EOLhyphen"/>judged in the ſaid Courts from the 24th to the 44th of the late <hi>Queen Elizabeth,</hi> and during the whole Reign of the late <hi>King Iames,</hi> and the firſt <hi>ſixteen</hi> years Reign of <hi>K. Charles</hi> the I. Collected and written in <hi>French</hi> by himſelf, <hi>Re<g ref="char:EOLhyphen"/>viſed</hi> and <hi>Publiſhed</hi> in <hi>Engliſh,</hi> by Sir <hi>Harebottle Grimſtone</hi> Baronet, Maſter of the Rolls, and one of the Benchers of the Honorable Society of <hi>Lincolns</hi>-Inne. The <hi>Second Edition,</hi> carefully <hi>Corrected</hi> by the Original. In three Parts, in <hi>Folio,</hi> Price 45 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>Reports</hi> and <hi>Pleas</hi> of <hi>Aſſiſes</hi> at <hi>York,</hi> held before ſeveral Judges in that Cir<g ref="char:EOLhyphen"/>cuit, by <hi>Io. Clayton,</hi> in <hi>Octavo,</hi> Price 1 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>Reports</hi> of ſpecial Caſes of the Li<g ref="char:EOLhyphen"/>berties, antient Cuſtoms and Uſages of the City of <hi>London,</hi> by Sir <hi>H. Calthrop,</hi> ſomtime Recorder thereof, <hi>&amp;c.</hi> in <hi>O<g ref="char:EOLhyphen"/>ctavo,</hi> Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>A <hi>Collection</hi> of <hi>Caſes</hi> by the late Re<g ref="char:EOLhyphen"/>verend Judge Sir <hi>Iames Dye<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> chief Juſtice of the <hi>Common-Bench,</hi> with di<g ref="char:EOLhyphen"/>vers Reſolutions and Judgments given upon ſolemn Arguments, and with great
+<pb n="69" facs="tcp:105078:41"/> deliberation, and the Reaſons and Cauſes of the ſaid Reſolutions and Judgments, in the Reigns of <hi>Hen.</hi> 8. <hi>Ed.</hi> 6. <hi>P.</hi> &amp; <hi>Mary,</hi> &amp; <hi>Eliz.</hi> in <hi>Folio, <hi>French.</hi>
+               </hi> Price 30 <hi>s.</hi>
+            </p>
+            <p>The <hi>firſt Report</hi> of Caſes and Mat<g ref="char:EOLhyphen"/>ters in Law, reſolved and adjudged in the <hi>Kings Courts</hi> in <hi>Ireland.</hi> Collected and digeſted by Sir <hi>Iohn Davis</hi> Knight, then the Kings Attorney General in that Realm, in <hi>Folio, <hi>French.</hi>
+               </hi> Price 10 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>Reports</hi> of <hi>I. Goldsborough</hi> Eſq ſomtimes one of the Prothonotaries of the Court of <hi>Common Pleas,</hi> or his <hi>Col<g ref="char:EOLhyphen"/>lection</hi> of Caſes and Matters agitated in all the Courts at <hi>Weſtminſter,</hi> in the lat<g ref="char:EOLhyphen"/>ter years of the Reign of <hi>Q. Elizabeth;</hi> with learned Arguments at the Bar, and on the Bench, and the grave Reſoluti<g ref="char:EOLhyphen"/>ons and Judgments thereupon of the chief Juſtices <hi>Anderſon</hi> and <hi>Popham,</hi> and the reſt of the Judges of thoſe times, in <hi>Quarto,</hi> Price 3 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>
+               <hi>Reports</hi> of certain Caſes ariſing in the ſeveral Courts of Record at <hi>Weſt<g ref="char:EOLhyphen"/>minſter,</hi> in the Reign of <hi>Q. Elizabeth, King Iames,</hi> and the late <hi>King Charles:</hi> with the reſolutions of the Judges of
+<pb n="70" facs="tcp:105078:42"/> the ſaid Courts, upon debate and ſo<g ref="char:EOLhyphen"/>lemn Arguments, Collected by good hands, and approved by the late learn<g ref="char:EOLhyphen"/>ed Juſtice <hi>Go<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>lt.</hi> Publiſhed by <hi>W. Hughes</hi> Eſquire, in <hi>Quarto,</hi> Price 6 <hi>s.</hi>
+            </p>
+            <p>The <hi>Reports</hi> of that Reverend and Learned Judge Sir <hi>Richard Hutton</hi> Knight, ſometimes one of the Judges of the <hi>Common-Pleas,</hi> containing many choice Caſes, Judgements and Reſo<g ref="char:EOLhyphen"/>lutions, in Points of Law, in the ſeveral Reigns of <hi>King <hi>Iames</hi>
+               </hi> and <hi>King <hi>Charles,</hi>
+               </hi> in <hi>Folio,</hi> Price 6 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>Reports</hi> and <hi>Caſes</hi> taken in the <hi>third, fourth, fifth, ſixth,</hi> and <hi>ſeventh</hi> years of the late <hi>King <hi>Charles,</hi>
+               </hi> as they were argued by moſt of the Kings Serjeants at the <hi>Common Pleas</hi> Barr. Collected and Reported by Sir <hi>Tho. Herley</hi> Knight Serjeant at Law, and appoint<g ref="char:EOLhyphen"/>ed by the King and Judges for one of the Reporters of the Law; in <hi>Folio,</hi> Price 5 <hi>s.</hi>
+            </p>
+            <p>* The <hi>Reports</hi> of Sir <hi>Henry Hobart,</hi> Knight and Baronet, Lord Chief Ju<g ref="char:EOLhyphen"/>ſtice of his Majeſties Court of Com<g ref="char:EOLhyphen"/>mon-Pleas; taken in the Reign of King <hi>James.</hi> The third <hi>Edition,</hi> with an Exact-Table, in <hi>Folio,</hi> Price 10 <hi>s.</hi>
+            </p>
+            <pb n="71" facs="tcp:105078:42"/>
+            <p>Judge <hi>Ienkin's Reports,</hi> in <hi>Folio <hi>French,</hi>
+               </hi> Price 9 <hi>s.</hi>
+            </p>
+            <p>* <hi>Reports</hi> of certain Select Caſes out of the Books of <hi>Robert Kellewey</hi> Eſq Which happened in the times of King <hi>Henry</hi> the 7th and of King <hi>Henry</hi> the 8th, and which are not expreſſed in the former Impreſſions of Term-Reports of thoſe Kings Publiſhed 44. <hi>Eliz.</hi> Alſo <hi>Reports</hi> of certain Caſes by the Reverend Judges <hi>William Dalliſon,</hi> and <hi>William Bendloes</hi> Serjeant at Law, in the time of the ſaid Queen, con<g ref="char:EOLhyphen"/>taining the Conſtruction of certain Statutes according to Equity with a Table added not in the former Im<g ref="char:EOLhyphen"/>preſſions, in <hi>Folio, <hi>French,</hi>
+               </hi> Price 12 <hi>s.</hi>
+            </p>
+            <p>Many Excellent <hi>Caſes</hi> as they ſtand judged in the <hi>three firſt years</hi> of the late <hi>King <hi>Charles</hi>
+               </hi> the <hi>Firſt,</hi> in the Court of <hi>Kings-Bench</hi> not Publiſhed by any other. Collected by the late Know<g ref="char:EOLhyphen"/>ing and Learned <hi>Iohn Latch</hi> of the <hi>Middle-Temple</hi> Eſq in <hi>Folio, <hi>French,</hi>
+               </hi> Price 7 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>Reports</hi> in the Court of <hi>Exchequer,</hi> beginning in the <hi>third,</hi> and ending in the <hi>ninth</hi> year of the Raign of the late
+<pb n="72" facs="tcp:105078:43"/> 
+               <hi>King <hi>Iames</hi>
+               </hi> by the Honourable <hi>Ri<g ref="char:EOLhyphen"/>chard Lane</hi> late of the <hi>Middle-Temple:</hi> ſometime Attorney General to the late Prince <hi>Charles,</hi> being the firſt <hi>Colle<g ref="char:EOLhyphen"/>ctions</hi> in that Court hitherto Extant. Containing ſeveral Caſes of Informa<g ref="char:EOLhyphen"/>tions upon Intruſion, touching the Kings Prerogative, Revenue, and Go<g ref="char:EOLhyphen"/>vernment; with divers Incident re<g ref="char:EOLhyphen"/>ſolutions of Publique Concernment in Points of Law; in <hi>Folio,</hi> Price 4 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>
+               <hi>Reports</hi> of divers reſolutions in Law, ariſing upon Caſes in the <hi>Court</hi> of <hi>Wards</hi> and other Courts at <hi>West<g ref="char:EOLhyphen"/>minſter<g ref="char:punc">▪</g>
+               </hi> in the Reigns of the <hi>late Kings, King James</hi> and <hi>King Charles,</hi> Col<g ref="char:EOLhyphen"/>lected by the Right Honourable Sir <hi>Iames Ley</hi> Knight and Baronet, Earl of <hi>Marleborough,</hi> &amp;c. Whileſt he was Attorney of the Court of <hi>Wards and Liveries:</hi> in <hi>Folio,</hi> Price 4 <hi>s.</hi> 6<hi>d.</hi>
+            </p>
+            <p>
+               <hi>Reports</hi> and <hi>Caſes</hi> of Law, argued and adjudged in the Courts of Law at <hi>Westminſter,</hi> in the life of the late <hi>Queen Elizabeth.</hi> Collected by <hi>Wil<g ref="char:EOLhyphen"/>liam Leonard</hi> Eſquire. And Publiſhed by <hi>W. Hughes</hi> of <hi>Grayes-Inn</hi> Eſquire; in three parts in <hi>Folio,</hi> Price 24 <hi>s.</hi>
+            </p>
+            <pb n="73" facs="tcp:105078:43"/>
+            <p>
+               <hi>Caſes Collected</hi> and <hi>Reported</hi> by Sir <hi>Francis Moore</hi> Knight, Serjeant at Law, Imprinted and Publiſhed by the Original then remaining in the hands of Sir <hi>Ieffrey Palmer,</hi> Attorney Ge<g ref="char:EOLhyphen"/>neral to his moſt Excellent Majeſty King <hi>Charles</hi> the ſecond, in <hi>Folio, <hi>French,</hi>
+               </hi> Price 28 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>Reports</hi> or New Caſes in the 15. 16. 17. and 18. <hi>Car.</hi> 1. with divers reſo<g ref="char:EOLhyphen"/>lutions and judgements given upon ſo<g ref="char:EOLhyphen"/>lemn Argument and with great delibe<g ref="char:EOLhyphen"/>ration, and the reaſon and cauſes of the ſaid Reſolutions and Judgements. Col<g ref="char:EOLhyphen"/>lected by <hi>Io March</hi> of <hi>Grayes-Inn</hi> Bar<g ref="char:EOLhyphen"/>riſter, in <hi>Quarto,</hi> Price 3 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>* <hi>Reports</hi> and <hi>Caſes</hi> taken in the time of <hi>Queen Elizabeth, King James,</hi> and <hi>King Charles.</hi> Collected and Re<g ref="char:EOLhyphen"/>ported by that Learned Lawyer <hi>Wil<g ref="char:EOLhyphen"/>liam Noy,</hi> ſometimes Reader of the Honourable Society of <hi>Lincolns-Inn,</hi> ſince Attorney General to the late King <hi>Charles:</hi> containing moſt Excel<g ref="char:EOLhyphen"/>lent matter of Exceptions to all man<g ref="char:EOLhyphen"/>ner of Declarations, Pleadings and Demurrers, that there is ſcarce one A<g ref="char:EOLhyphen"/>ction in a probability of being brought but here it is throughly examined
+<pb n="74" facs="tcp:105078:44"/> and Exactly laid. The <hi>Second Editi<g ref="char:EOLhyphen"/>on, Corrected</hi> and <hi>Amended;</hi> in <hi>Folio,</hi> Price 5 <hi>s.</hi>
+            </p>
+            <p>The <hi>Reports</hi> of that late Reverend and Learned Judge, <hi>Thomas Owen</hi> Eſquire, one of the Juſtices of the <hi>Common Pleas</hi> in the time of <hi>Queen E<g ref="char:EOLhyphen"/>lizabeth;</hi> wherein are many choice Caſes, moſt of them throughly argu<g ref="char:EOLhyphen"/>ed by the Learned Serjeants, and after argued and reſolved by the Grave Judges of thoſe times, with many Ca<g ref="char:EOLhyphen"/>ſes wherein the differences in the Year-Books are reconciled and explained, in <hi>Folio,</hi> Price 5 <hi>s.</hi>
+            </p>
+            <p>* The <hi>Commentaries</hi> or <hi>Reports</hi> of <hi>Edmund Plowden,</hi> an Apprentice of the Common Law, of divers Caſes be<g ref="char:EOLhyphen"/>ing matters in Law, and of the Argu<g ref="char:EOLhyphen"/>ments thereupon: In the times of the Reigns of <hi>King Edward.</hi> 6. <hi>Queen Mary Phil.</hi> &amp; <hi>Mar.</hi> and <hi>Queen Eliz.</hi> in two Parts, with three Tables of the re<g ref="char:EOLhyphen"/>markable things therein contained, in <hi>Folio, <hi>French,</hi>
+               </hi> Price 35 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>Reports</hi> and <hi>Caſes</hi> in the time of <hi>Queen Elizabeth,</hi> Collected by Sir <hi>Io. Popham,</hi> with remarkable Caſes and Reports, by other learned Pens ſince his death, in <hi>Folio,</hi> Price 6 <hi>s.</hi>
+            </p>
+            <pb n="75" facs="tcp:105078:44"/>
+            <p>
+               <hi>Narrationes Modernae,</hi> or Modern Reports, begun in the now Upper Bench Court at <hi>Weſtminſter,</hi> in the be<g ref="char:EOLhyphen"/>ginning of Hillary Term 21 <hi>Caroli,</hi> and continued to the end of Michael<g ref="char:EOLhyphen"/>mas Term 1655. as well on the Cri<g ref="char:EOLhyphen"/>minal as on the Pleas ſide. Moſt of which time the late Lord Chief Juſtice <hi>Roll</hi> gave the rule there, by <hi>William Style</hi> of the <hi>Inner-Temple</hi> Eſq in <hi>Folio,</hi> Price 9 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>Reports</hi> of that Reverend and Lear<g ref="char:EOLhyphen"/>ned Judge Sir <hi>Humphrey Winch</hi> Knight, ſometimes one of the Judges of the Court of <hi>Common-Pleas;</hi> Contain<g ref="char:EOLhyphen"/>ing many choice Caſes, and Excellent matters touching Declarations, Plead<g ref="char:EOLhyphen"/>ings, Demurrers, Judgements, and reſolutions in Points of Law, in the <hi>four last years</hi> of the Reign of <hi>King James,</hi> in <hi>Folio,</hi> Price 5 <hi>s.</hi>
+            </p>
+            <p>The <hi>Reports</hi> of Sir <hi>Henry Yelverton</hi> Knight and Baronet, late one of the Juſtices of the Court of <hi>Common Bench</hi> of divers ſpecial Caſes in the Court of Kings Bench, as well in the latter part of the Reign of <hi>Queen Elizabeth,</hi> as in the firſt ten years of <hi>King James.</hi> Collected by himſelf and Printed by
+<pb n="76" facs="tcp:105078:45"/> the Original under his own hand in <hi>French</hi> remaining with Sir <hi>Thomas Twiſden</hi> Knight, one of the Juſtices of the <hi>Kings Bench</hi> and Publiſhed by Sir <hi>William Wild</hi> Knight and Baronet, then Serjeant at Law, and the Kings Serjeant and Recorder of the City of <hi>London,</hi> and now one of the Juſtices of the <hi>Common Pleas,</hi> in <hi>Folio, <hi>French,</hi>
+               </hi> Price 7 <hi>s.</hi>
+            </p>
+            <div type="section">
+               <head>Year Books.</head>
+               <p>The <hi>firſt part</hi> of <hi>Edw.</hi> 3. containing the <hi>Reports</hi> of <hi>Caſes</hi> in Law, in the firſt ten years of that King, with notes in the Margent, referring to the A<g ref="char:EOLhyphen"/>bridgement of <hi>Fitzherbert.</hi>
+               </p>
+               <p>* The <hi>ſecond part</hi> of <hi>Edw.</hi> the 3 <hi>d.</hi> containing the <hi>Reports</hi> of <hi>Caſes</hi> in Law, argued in the time of that King; <hi>viz.</hi> beginning the 17th and ending the 39th year of his Reign: with notati<g ref="char:EOLhyphen"/>ons and references to <hi>Fitzherberts A<g ref="char:EOLhyphen"/>bridgement,</hi> with a large Table annex<g ref="char:EOLhyphen"/>ed.</p>
+               <p>*The <hi>Quadrageſims,</hi> containing <hi>Re<g ref="char:EOLhyphen"/>ports</hi> of Caſes in Law beginning the 40th, and ending the 50th year of the Reign of King <hi>Edw.</hi> 3. with Notes in the Margent referring to <hi>Brooke</hi>
+                  <pb n="77" facs="tcp:105078:45"/> and <hi>Fitzherberts Abridgements,</hi> with a Table annexed of the matter therein contained.</p>
+               <p>* The <hi>Book</hi> of <hi>Aſſizes</hi> and Pleas of the Crown moved and depending be<g ref="char:EOLhyphen"/>fore the Juſtices as well in their Cir<g ref="char:EOLhyphen"/>cuits as elſewhere; in the time of King <hi>Edward</hi> the 3d. with two Tables, compoſed by <hi>Iuſtice Raſtall,</hi> the one of them of the Principal matters con<g ref="char:EOLhyphen"/>cerning Pleas of the Crown, and the other of all the Principal Caſes therein contained, and the Titles under which Sir <hi>Robert Brooke</hi> hath Abridged the pleas collected and aptly deſcribed in the Margent of every Plea.</p>
+               <p>* The <hi>Reports</hi> of Caſes of Law in the Reign of <hi>Henry</hi> the 4th and <hi>Henry</hi> the 5th with Notes in the Margent, re<g ref="char:EOLhyphen"/>ferring to the <hi>Abridgements</hi> of <hi>Fitz<g ref="char:EOLhyphen"/>herbert</hi> and <hi>Brooke,</hi> with a large Table added.</p>
+               <p>* The <hi>Annalls</hi> or <hi>Reports</hi> of the Reign of <hi>Edw.</hi> the 4th, with a Table of the remarkable things therein contain<g ref="char:EOLhyphen"/>ed, with references to <hi>Brooks Abridg<g ref="char:EOLhyphen"/>ment</hi> and other Books of the Common Law.</p>
+               <p>* The <hi>Long Quinto,</hi> being the <hi>Re<g ref="char:EOLhyphen"/>port</hi>
+                  <pb n="78" facs="tcp:105078:46"/> of Caſes adjudged in the 5th year of the Reign of <hi>Edw.</hi> the 4th, with a Table and references to the <hi>Abridge<g ref="char:EOLhyphen"/>ment</hi> of <hi>Brooke</hi> added in the Margent of every Caſe.</p>
+               <p>* The <hi>firſt part</hi> of the Annals of <hi>Hen.</hi> the 6th being the <hi>Reports</hi> of Caſes of Law in the firſt 20th. years of that Kings Reign, with the Marginal Notes and a profitable Table thereunto an<g ref="char:EOLhyphen"/>nexed.</p>
+               <p>* The <hi>Second Part</hi> of <hi>Hen.</hi> the 6th being the <hi>Reports</hi> of Caſes of Law in the 21th year of that King, and after<g ref="char:EOLhyphen"/>wards with a Table, and references to the <hi>Abridgements</hi> of <hi>Brooke</hi> and <hi>Fitz<g ref="char:EOLhyphen"/>herbert.</hi>
+               </p>
+               <p>* A <hi>Collection of Caſes</hi> adjudged in the Reigns of <hi>Edw.</hi> 5. <hi>Rich.</hi> 3. <hi>Hen.</hi> 7. and <hi>Hen.</hi> 8. with references of the Ca<g ref="char:EOLhyphen"/>ſes to <hi>Brooks Abridgement</hi> and the year Books.</p>
+               <p>
+                  <hi>I have omitted the Particular Priſes of the ten laſt mentioned Books called <hi>Year-Books;</hi> many of them being difficult to be got ſingly, and their Prizes uncertain: they are all in</hi> Folio, <hi>French,</hi> Price alto<g ref="char:EOLhyphen"/>gether 15 <hi>l.</hi>
+               </p>
+               <p>
+                  <hi>Theſe Ten Volumes of <hi>Year-Books</hi>
+                     <pb n="79" facs="tcp:105078:46"/> are deſigned to be Reprinted and Sold for about half the preſent Price by way of Sub<g ref="char:EOLhyphen"/>ſcription.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="part">
+            <pb n="80" facs="tcp:105078:47"/>
+            <head>SHERIFFS.</head>
+            <p>* <hi>Officium Vicecomitum;</hi> The Office and Authority of Sheriffs, gathered out of the Statutes and Books of the Common Laws of this Kingdom. <hi>Corrected</hi> and <hi>very much <hi>Enlarged</hi>
+               </hi> by <hi>Mich. Dalton</hi> late of <hi>Lincolns</hi>-Inne Eſquire, and one of the Maſters of the <hi>Chancery.</hi> To which is added a <hi>Supplement,</hi> contain<g ref="char:EOLhyphen"/>ing a Collection of the Statutes touch<g ref="char:EOLhyphen"/>ing Sheriffs, made ſince Mr. <hi>Daltons</hi> writing, which are in force and uſe at this day; Several ſpecial returns of Writs, and the Expoſitions, Judgments and Reſolutions of the Judges in the ſeveral Courts at <hi>Weſtminſter;</hi> upon divers Statutes, Caſes, and Queſtions in Law relating to Sheriffs, and ſeveral other new Matters, in <hi>Folio,</hi> Price 12 <hi>s.</hi>
+            </p>
+            <pb n="81" facs="tcp:105078:47"/>
+            <p>* A <hi>Treatiſe</hi> collected out of the Statutes of this Common-wealth, and according to common Experience of the Laws, concerning the <hi>Office</hi> and <hi>Authorities</hi> of <hi>Coroners</hi> and <hi>She<g ref="char:EOLhyphen"/>riffs:</hi> Together with an eaſie and plain Method for the keeping of a Court-Leet, Court-Baron, and Hundred-Court, by <hi>Iohn Wilkinſon</hi> of <hi>Bernards</hi>-Inne Gent. To which is added the re<g ref="char:EOLhyphen"/>turn of Writs by <hi>Io. Kitchin</hi> Eſquire, in <hi>Octavo,</hi> Price 2 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <pb n="82" facs="tcp:105078:48"/>
+            <head>STATUTES.</head>
+            <p>* A <hi>Collection of all the Statutes now in uſe,</hi> with Notes in the Margin, and references to the Book Caſes, and Books of En<g ref="char:EOLhyphen"/>tries and Regiſters where they be trea<g ref="char:EOLhyphen"/>ted of together; with an <hi>Abridgment</hi> of the reſidue which are expired, re<g ref="char:EOLhyphen"/>pealed, altered, and worne out of uſe, by <hi>Ferdinando Pulton</hi> of <hi>Lincolns</hi>-Inne Eſquire, with a <hi>Continuation</hi> of the Statutes made in the Reign of <hi>King Charles</hi> the Firſt, and his <hi>Majeſty</hi> that now is, to the laſt adjournment of Parliament, <hi>April</hi> 11. 1670. by <hi>Tho. Manby</hi> of <hi>Lincolns</hi>-Inne Eſquire, in <hi>Folio,</hi> Price 50 <hi>s.</hi>
+            </p>
+            <p>* The <hi>Statutes</hi> at <hi>Large,</hi> containing all ſuch Acts which at any time hereto<g ref="char:EOLhyphen"/>fore have been extant in Print from <hi>Magna Charta,</hi> until the ſixteenth
+<pb n="83" facs="tcp:105078:48"/> year of the Reign of <hi>King James,</hi> with Marginal Notes and Marks, whereby the Reader may know which of the ſame Acts are wholly void, either by Expiration or Repeal. Collected by <hi>W. Raſtall</hi> Eſquire, in two Volumes, in <hi>Folio,</hi> Price 30 <hi>s.</hi>
+            </p>
+            <p>The <hi>Statutes</hi> of <hi>Ireland,</hi> beginning the third year of <hi>King Edward</hi> the Se<g ref="char:EOLhyphen"/>cond, and continuing until the end of the Parliament begun in the eleventh year of <hi>King James,</hi> and ended in the thirteenth year of his Reign. To which is added the <hi>Statutes</hi> made there in the tenth and eleventh years of <hi>King Charles</hi> the Firſt, in <hi>Folio,</hi> Price 18 <hi>s.</hi>
+            </p>
+            <p>* <hi>Magna Charta,</hi> with other antient and modern Statutes, in <hi>Octavo, <hi>Latine,</hi>
+               </hi> Price 2 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>A <hi>Collection of ſeveral Acts of Par<g ref="char:EOLhyphen"/>liament</hi> publiſhed in the years 1648. 1649. 1650. and 1651. alſo ſeveral Acts of Parliament made in the 17. and 18. years Reign of the late <hi>K. Charles,</hi> and Ordinances touching adventurers for <hi>Ireland,</hi> by <hi>H. Scobell</hi> Eſquire, in <hi>Folio,</hi> Price 16 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>Regiam Majeſtatem:</hi> the old Laws
+<pb n="84" facs="tcp:105078:49"/> and Conſtitutions of <hi>Scotland,</hi> faith<g ref="char:EOLhyphen"/>fully collected forth of the Regiſter and other old Authentick Books, from the dayes of <hi>King Malcolme</hi> the <hi>Second</hi> until the time of <hi>King James</hi> the <hi>Firſt,</hi> by Sir <hi>Iohn Skene,</hi> in <hi>Folio, <hi>Latine,</hi>
+               </hi> Price 12 <hi>s. The ſame is alſo Tranſlated in Scottiſh Language</hi> by Sir <hi>Iohn Skene,</hi> in <hi>Folio,</hi> Price 12 <hi>s.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <pb n="85" facs="tcp:105078:49"/>
+            <head>Tables never Printed with any BOOKS.</head>
+            <p>THE <hi>Promptuary,</hi> or <hi>Repertory General</hi> of the Year Books, and many other Books of the Common Law of <hi>England:</hi> Compoſed by <hi>Thomas Aſh</hi> of <hi>Grayes</hi>-Inne, Pro<g ref="char:EOLhyphen"/>feſſor of the ſaid Law, referring to the Abridgments and Books at large, whereby all the ſaid Books and Caſes therein contained, which concern any point coming in queſtion, either at the Common Law, or upon the Expoſition of any Statute, and the Preſidents for Forms of Pleading, every ſeveral Mat<g ref="char:EOLhyphen"/>ter may be eaſily found publiſhed in the twelfth year of the Reign of <hi>King Janes,</hi> in two Volumes, in <hi>Folio, <hi>French,</hi>
+               </hi> Price 20 <hi>s.</hi>
+            </p>
+            <p>A <hi>General Table</hi> to the eleven Books of the <hi>Reports</hi> of Sir <hi>Edward Coke</hi> Knight, late chief Juſtice of the
+<pb n="86" facs="tcp:105078:50"/> 
+               <hi>Kings-Bench,</hi> whereby all the Caſes and Matters therein contained may be eaſily found, with two Alphabetical Catalogues, the one of the principal Caſes, the other of all the general Titles naturally ariſing out of the Matter of the ſaid <hi>Reports,</hi> by <hi>Tho. Aſh</hi> of <hi>Grayes</hi>-Inne, in <hi>Octavo, <hi>French.</hi>
+               </hi> Price 7 <hi>s. The ſame is alſo Tranſlated into Engliſh,</hi> in <hi>Octavo,</hi> Price 6 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>Epieiceia,</hi> And a general <hi>Table</hi> to the Annal's (or <hi>Year Books</hi>) of Law; whereby may be eaſily found all the Caſes contained in the ſame, which concern the Expoſition of Statutes by <hi>Equity.</hi> Collected by <hi>Thomas Aſh</hi> of <hi>Grayes</hi>-Inne, in <hi>Octavo, <hi>French,</hi>
+               </hi> Price 2 <hi>s.</hi>
+            </p>
+            <p>A <hi>Table</hi> to the <hi>Reports</hi> of Sir <hi>Iames Dyer</hi> Knight, late chief Ju<g ref="char:EOLhyphen"/>ſtice of the <hi>Common Bench.</hi> Compoſed by <hi>Tho. Aſh,</hi> in <hi>Octavo, <hi>French,</hi>
+               </hi> Price 3 <hi>s.</hi>
+            </p>
+            <p>A <hi>Table</hi> to the Annals (or <hi>Year Books</hi>) of <hi>Edw.</hi> 5. <hi>Rich.</hi> 3. <hi>H.</hi> 7. &amp; <hi>H.</hi> 8. by <hi>William Fleetwood</hi> Re<g ref="char:EOLhyphen"/>corder of <hi>London,</hi> in <hi>Twelves, <hi>French.</hi>
+               </hi> Price 2 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>Ta<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>les</hi> to moſt of the printed Pre<g ref="char:EOLhyphen"/>ſidents
+<pb n="87" facs="tcp:105078:50"/> of Pleadings, Writs, and Retorn of Writs at the Common Law. Collected by <hi>George Towneſend,</hi> a Clerk of the Court of <hi>Common Pleas,</hi> in <hi>Folio, <hi>Latine</hi>
+               </hi> and <hi>French.</hi> Price 12 <hi>s.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <pb n="88" facs="tcp:105078:51"/>
+            <head>TITHES, &amp;c.</head>
+            <p>A <hi>Compleat Parſon;</hi> or a De<g ref="char:EOLhyphen"/>ſcription of Advowſons, or Church living. Wherein is ſet forth the intereſts of the Parſon, Patron, and Ordinary, <hi>&amp;c.</hi> with many other things concerning the matter, as they were delivered at ſeveral Readings at <hi>New</hi>-Inne, by <hi>I. Dode<g ref="char:EOLhyphen"/>ridge <hi>Anno</hi>
+               </hi> 1602. 1603. in <hi>Quarto,</hi> Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>* <hi>Parſons Law;</hi> or a View of Ad<g ref="char:EOLhyphen"/>vowſons: Wherein is contained the rights of the Patrons, Ordinaries and Incumbents, to Advowſons of Churches and Benefices, with cure of Souls, and other Spiritual promotions. The <hi>Second Edition</hi> much <hi>Enlarged</hi> by <hi>W. Hughes</hi> of <hi>Grayes-Inne</hi> Eſquire, in <hi>Octavo,</hi> Price 2 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>* The <hi>Parſons Guide;</hi> or the Law of Tithes: Wherein is ſhewed who
+<pb n="89" facs="tcp:105078:51"/> muſt pay Tithes, and to whom, and of what things, when, and how they muſt be paid, and how they may be recove<g ref="char:EOLhyphen"/>red at this day, and how a man may be diſcharged of payment thereof. The <hi>Second Edition <hi>much Enlarged through<g ref="char:EOLhyphen"/>out the whole Book,</hi>
+               </hi> by <hi>W. Sheppard</hi> Eſquire, in <hi>Twelves,</hi> Price 1 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>Decimatum</hi> &amp; <hi>Oblationum Tabula:</hi> A <hi>Tithing Table,</hi> or a Table of Tithes and Oblations, according to the Ec<g ref="char:EOLhyphen"/>cleſiaſtical Laws and Ordinances eſta<g ref="char:EOLhyphen"/>bliſhed in the Church of <hi>England.</hi> Com<g ref="char:EOLhyphen"/>piled by <hi>W. C.</hi> Bach. of the Civil Law, in <hi>Quarto,</hi> Price 6 <hi>d.</hi>
+            </p>
+            <p>The <hi>Hiſtory</hi> of <hi>Tithes;</hi> that is, the Practice of <hi>Payment</hi> of them. The Poſitive <hi>Laws</hi> made for them. The <hi>Opinions</hi> touching the right of them. A <hi>Review</hi> of it is alſo annexed, which both <hi>confirmes</hi> it, and directs in the <hi>uſe</hi> of it; by <hi>I. Selden,</hi> in <hi>Quarto,</hi> Price 8 <hi>s.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <pb n="90" facs="tcp:105078:52"/>
+            <head>Wills and Teſtaments.</head>
+            <p>THe <hi>Touch-ſtone</hi> of <hi>Wills, Te<g ref="char:EOLhyphen"/>ſtaments</hi> and <hi>Adminiſtrations;</hi> being a Compendium of Ca<g ref="char:EOLhyphen"/>ſes and Reſolutions touching the ſame. Carefully collected out of the Eccleſia<g ref="char:EOLhyphen"/>ſtical, Civil, and Canon Laws, as alſo out of the Cuſtoms, Common Laws, and Statutes of this Kingdom, by <hi>G. Meriton</hi> Gent. in <hi>Octavo,</hi> Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>* The <hi>Office</hi> and <hi>Duty</hi> of <hi>Execu<g ref="char:EOLhyphen"/>tors;</hi> or a Treatiſe of wills and Exe<g ref="char:EOLhyphen"/>cutors directed to Teſtators, in the choice of their Executors, and con<g ref="char:EOLhyphen"/>trivance of their Wills, with directi<g ref="char:EOLhyphen"/>ons for Executors in the execution of their Office according to the Law; and for Creditors in the recovery of their Debts. Compiled out of the body of the Common Law, by <hi>Thomas Went<g ref="char:EOLhyphen"/>worth</hi> late Bencher of <hi>Lincolns-Inne,</hi> in <hi>Octavo,</hi> Price 2 <hi>s.</hi>
+            </p>
+            <pb n="91" facs="tcp:105078:52"/>
+            <p>* A <hi>Brief Treatiſe</hi> of <hi>Teſtaments</hi> and laſt <hi>Wills;</hi> very profitable to be underſtood of all the Subjects of this Realm deſirous to know, whether, whereof, and how, they may make their Teſtaments: and by what means the ſame may be effected or hindred. Compiled of ſuch Laws Eccleſiaſtical and Civil, as be not repugnant to the Laws, Cuſtoms, or Statutes of this Realm, nor derogative to the Prero<g ref="char:EOLhyphen"/>gative Royal, by <hi>Hen. Swinburne</hi> ſomtime Judge of the Prerogative Court of <hi>York, <hi>Corrected</hi>
+               </hi> and <hi>Aug<g ref="char:EOLhyphen"/>mented,</hi> with neceſſary Tables, in <hi>Quarto,</hi> Price 8 <hi>s.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <pb n="92" facs="tcp:105078:53"/>
+            <head>WRITS.</head>
+            <p>* THE <hi>N<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w Natura Brevium</hi> of the moſt reverend Judge Mr. <hi>Anthony Fitzherbert, Corrected</hi> and <hi>Reviſed,</hi> with a Table added by <hi>William Raſtall,</hi> in <hi>Octavo, <hi>French.</hi>
+               </hi> Price 5 <hi>s. The ſame is alſo Tranſlated into Engliſh,</hi> whereunto are added the Authorities in Law, and ſome other Caſes and Notes, collected by the Tranſlator out of the Year-Books and Abridgments, in <hi>Octavo,</hi> Price 5 <hi>s.</hi>
+            </p>
+            <p>The <hi>Old Natura Brevium,</hi> in <hi>Octa<g ref="char:EOLhyphen"/>vo, <hi>French.</hi>
+               </hi> Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>The <hi>Commentaries</hi> upon <hi>Original Writs,</hi> where moſt of the Caſes in <hi>Bracton</hi> Book of Entries, the Year Books from King <hi>Edw.</hi> the Second, to theſe times, with the Plaints, Counts, Pleadings, &amp;c. are reduced to the o<g ref="char:EOLhyphen"/>riginal Writs under ſeveral Heads. Collected, Abridged, and taken out of
+<pb n="93" facs="tcp:105078:53"/> the Books themſelves, by <hi>W. Hughes</hi> of <hi>Grayes</hi> Inne Eſquire, in <hi>Quarto,</hi> Price 3 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>The <hi>Attorney's Almanack:</hi> being the Manner for Direction of any Writ for the removing of anybody or Cauſe, or certifying any Record, <hi>&amp;c.</hi> to any of the great Courts at <hi>Weſtminſter,</hi> by <hi>Tho. Powel,</hi> in <hi>Quarto,</hi> Price 1 <hi>s.</hi>
+            </p>
+            <p>A <hi>brief Regiſter,</hi> Kalender, and Survey of the ſeveral Kinds, Forms of all <hi>Parliamentary Writs,</hi> by <hi>William Pryn</hi> of <hi>Lincolns-Inne</hi> Eſquire, in four Parts, in <hi>Quarto,</hi> Price 20 <hi>s.</hi>
+            </p>
+            <p>The <hi>Digeſt</hi> of <hi>Original Writs,</hi> and of things concerning them, by <hi>Simon Theloal,</hi> in <hi>Octavo, <hi>French.</hi>
+               </hi> Price 8 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>For the ſeveral Forms of Writs,</hi> vide <hi>Title Preſidents.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <pb n="94" facs="tcp:105078:54"/>
+            <head>MISCELLANIES.</head>
+            <div n="A" type="part">
+               <p>THE <hi>Aſſizes</hi> of <hi>Bread,</hi> with ſun<g ref="char:EOLhyphen"/>dry good and needful Ordi<g ref="char:EOLhyphen"/>nances for Bakers, Brewers, Inholders, <hi>&amp;c.</hi> And other Aſſizes in Weights and Meaſures, which by the Laws of this Realm are commanded to be obſerved and kept by all perſons, in <hi>Quarto,</hi> Price 6 <hi>d</hi>
+               </p>
+               <p>The <hi>Attorney</hi> of the <hi>Common Pleas,</hi> or Directions and Inſtructions con<g ref="char:EOLhyphen"/>cerning his practice therein: Together with the Fees due to the Judges and Officers there, and in the <hi>Kings-Bench;</hi> and alſo Fees and Ordinances in <hi>Chan<g ref="char:EOLhyphen"/>cery,</hi> in <hi>Octavo,</hi> Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+               </p>
+            </div>
+            <div n="B" type="part">
+               <pb n="95" facs="tcp:105078:54"/>
+               <head>B.</head>
+               <p>
+                  <hi>BRacton,</hi> a Treatiſe of the Laws and Cuſtoms of England; written in the Raign of <hi>H.</hi> 2. in <hi>Quarto, <hi>Latine,</hi>
+                  </hi> Price 12 <hi>s.</hi>
+               </p>
+               <p>
+                  <hi>Caſes</hi> of <hi>Treaſon,</hi> written by Sir <hi>Francis Bacon</hi> Knight, in <hi>Quarto,</hi> Price 6 <hi>d.</hi>
+               </p>
+               <p>A <hi>Charge</hi> given by the learned Sir <hi>Francis Bacon</hi> Knight, late Lord Chancellor of <hi>England,</hi> at a Seſſions holden for the Verge in the Reign of the late King <hi>James,</hi> declaring the la<g ref="char:EOLhyphen"/>titude of the Juriſdiction thereof, in <hi>Quarto,</hi> Price 6 <hi>d.</hi>
+               </p>
+               <p>
+                  <hi>Ordinances</hi> in <hi>Chancery,</hi> by Sir <hi>Fra. Bacon</hi> Knight, in <hi>Quarto,</hi> Price 6 <hi>d.</hi>
+               </p>
+               <p>The ſeveral <hi>Statutes</hi> concerning <hi>Bankrupts,</hi> methodically digeſted: Together with the Reſolutions of our learned Judges on them; as likewiſe the Statutes 13. <hi>Eliz.</hi> and 27. <hi>Eliz.</hi> touching fraudulent Conveyances, with the like reſolutions on them, by <hi>T. B.</hi> Eſquire, in <hi>Octavo,</hi> Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+               </p>
+               <p>
+                  <hi>Three Speeches</hi> of Sir <hi>Francis Ba<g ref="char:EOLhyphen"/>con</hi> Knight, concerning the Poſt. Nati. Naturalization of the Scotch in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> union of the Laws of the King<g ref="char:EOLhyphen"/>dom of <hi>England</hi> and <hi>Scotland,</hi> in <hi>Quarto,</hi> Price 1 <hi>s.</hi>
+               </p>
+               <pb n="96" facs="tcp:105078:55"/>
+               <p>* <hi>Britton,</hi> an antient Treatiſe of the Law: The <hi>Second Edition,</hi> faith<g ref="char:EOLhyphen"/>fully <hi>Corrected</hi> according to divers antient Manuſcripts of the ſame Book, by <hi>Edm. Wingate,</hi> in <hi>Octavo, <hi>French.</hi>
+                  </hi> Price 5 <hi>s.</hi>
+               </p>
+               <p>The <hi>Book</hi> of <hi>Oaths,</hi> and the ſeveral Forms thereof both antient and mo<g ref="char:EOLhyphen"/>dern. Collected out of ſundry Au<g ref="char:EOLhyphen"/>thentick Books and Records, not heretofore extant, compiled in one Volume, in <hi>Twelves,</hi> Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+               </p>
+               <p>A <hi>Subſidy</hi> granted to the King of Tonnage and Poundage, and other ſums of mony payable upon Merchan<g ref="char:EOLhyphen"/>dize, Exported and Imported: Together with a <hi>Book</hi> of <hi>Rates</hi> agreed upon by the Honorable the Houſe of Com<g ref="char:EOLhyphen"/>mons, in <hi>Octavo,</hi> Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+               </p>
+               <p>
+                  <hi>Examen Legum Angliae;</hi> or the Laws of <hi>England</hi> examined by Scripture-An<g ref="char:EOLhyphen"/>tiquity and Reaſon, by <hi>A. Boone,</hi> in <hi>Quarto,</hi> Price 3 <hi>s.</hi>
+               </p>
+            </div>
+            <div n="C" type="part">
+               <pb n="97" facs="tcp:105078:55"/>
+               <head>C.</head>
+               <p>* THe <hi>firſt Part</hi> of the <hi>Inſtitutes</hi> of the Laws of <hi>England;</hi> or a Com<g ref="char:EOLhyphen"/>mentary upon <hi>Littleton,</hi> by Sir <hi>Edward Coke</hi> Knight: the <hi>Seventh Edition,</hi> in <hi>Folio,</hi> Price 18 <hi>s.</hi>
+               </p>
+               <p>* The <hi>Second Part</hi> of the <hi>Inſti<g ref="char:EOLhyphen"/>tutes</hi> of the Laws of <hi>England,</hi> contain<g ref="char:EOLhyphen"/>ing the Expoſition of many antient and other Statutes; The <hi>Third Edition,</hi> by <hi>Edw. Coke</hi> Knight, in <hi>Folio,</hi> Price 14 <hi>s.</hi>
+               </p>
+               <p>* The <hi>Compleat Copy-holder;</hi> being a learned Diſcourſe of the Antiquity and Nature of Mannors and Copy-holds, with all things thereto incident, by Sir <hi>Edw. Coke</hi> Knight: Whereto is added a <hi>Supplement</hi> by way of addi<g ref="char:EOLhyphen"/>tion; to, and amplifications of the fore<g ref="char:EOLhyphen"/>going Treatiſe, in <hi>Octavo,</hi> Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+               </p>
+               <p>A Treatiſe of <hi>Bail</hi> and <hi>Mainpriſe,</hi> by Sir <hi>Edw. Coke</hi> Knight, in <hi>Quarto,</hi> Price 6 <hi>d.</hi>
+               </p>
+               <p>A <hi>Vindication</hi> of the <hi>Law,</hi> by <hi>W. Cooke</hi> of <hi>Grayes</hi>-Inne, in <hi>Quarto,</hi> Price 1 <hi>s.</hi>
+               </p>
+               <p>The <hi>neceſſary uſe</hi> and <hi>fruit</hi> of the <hi>Pleadings</hi> contained in the firſt Book of the Reports of Sir <hi>Edward Coke.</hi> With a Collection of the remarkable
+<pb n="98" facs="tcp:105078:56"/> by-Caſes, cited diſperſedly in the Ar<g ref="char:EOLhyphen"/>guments of the ſame Reports, by <hi>Rich. Cary,</hi> in <hi>Octavo, <hi>French.</hi>
+                  </hi> Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+               </p>
+               <p>* The <hi>Compleat Sollicitor</hi> perform<g ref="char:EOLhyphen"/>ing his Duty, and teaching his Clyent to run through and manage his own buſineſs, as well in his Majeſties ſuperi<g ref="char:EOLhyphen"/>our Courts at <hi>Weſtminſter,</hi> as in the Mayor's Court, Court of Huſtings, and other inferiour Courts, both in the City of <hi>London</hi> and elſewhere, in <hi>Octa<g ref="char:EOLhyphen"/>vo,</hi> Price 2. <hi>s.</hi> 6 <hi>d.</hi>
+               </p>
+               <p>The <hi>Liberties, Vſages</hi> and <hi>Cuſtoms</hi> of the City of <hi>London;</hi> confirmed by eſpecial Acts of Parliament, with the time of their confirmation, alſo di<g ref="char:EOLhyphen"/>vers ample and beneficial Charters, granted by King <hi>Hen.</hi> the 6th. King <hi>Edw.</hi> the 4th. and King <hi>Hen.</hi> the 7th. not confirmed by Parliament, as the other Charters were. Collected by Sir <hi>Hen. Calthrop</hi> Knight, in <hi>Quarto,</hi> Price 8 <hi>d.</hi>
+               </p>
+               <p>
+                  <hi>Topick's</hi> in the <hi>Laws</hi> of <hi>England</hi> containing Media, apt for Argument, and reſolution of Law Caſes: Alſo an Expoſition of ſeveral words, not touched by former Gloſſaries, by <hi>I. Clapton,</hi> in <hi>Octavo,</hi> Price 1 <hi>s.</hi>
+               </p>
+               <pb n="99" facs="tcp:105078:56"/>
+               <p>An <hi>Abſtract</hi> out of the <hi>Records</hi> of the <hi>Tower,</hi> touching the Kings Reve<g ref="char:EOLhyphen"/>nue; and how they have ſupported themſelves, by Sir <hi>Robert Cotton,</hi> Knight and Baronet, in <hi>Quarto,</hi> Price 6 <hi>d.</hi>
+               </p>
+               <p>* The <hi>Compleat Attorney;</hi> The practick part of the Law: ſhewing the Office of an Attorney in the Courts of <hi>Kings-Bench, Common Pleas,</hi> and Pleas in the <hi>Exchequer,</hi> and the manner of their proceedings in any Action real, perſonal or mixt (from the original to the Execution, in all Courts, with the exact Fees of all the Officers and Mi<g ref="char:EOLhyphen"/>niſters of the Courts. Together with ſpecial Inſtructions for the ſollicitation of any Cauſe in <hi>Chancery, Exchequer-Chamber, Dutchy-Chamber,</hi> &amp;c. Care<g ref="char:EOLhyphen"/>fully <hi>Reviſed</hi> and <hi>Enlarged,</hi> in <hi>Octavo,</hi> Price 3 <hi>s.</hi>
+               </p>
+               <p>
+                  <hi>Englands Compleat Law Iudge</hi> and <hi>Lawyer,</hi> by <hi>G. Cooke</hi> one of the Judges of the Admiral Court, and Probate of Wills, <hi>Quarto.</hi>
+               </p>
+               <p>A <hi>Collection</hi> of all the <hi>publick Or<g ref="char:EOLhyphen"/>ders, Ordinances</hi> and <hi>Declarations</hi> of both Houſes of Parliament, from the 9th of <hi>March</hi> 1642. until <hi>Decemb.</hi> 1646.
+<pb n="100" facs="tcp:105078:57"/> together with ſeveral of his Majeſties Proclamations and other papers prin<g ref="char:EOLhyphen"/>ted at <hi>Oxford,</hi> in <hi>Folio,</hi> price 16 <hi>s.</hi>
+               </p>
+               <p>An <hi>Exact Collection</hi> of all <hi>remon<g ref="char:EOLhyphen"/>ſtrances, Declarations,</hi> Votes, Orders, Ordinances, Proclamations, Petitions, Meſſages, Anſwers, and other remark<g ref="char:EOLhyphen"/>able paſſages between the Kings moſt Excellent Majeſty and his High Court of Parliament; beginning at his Ma<g ref="char:EOLhyphen"/>jeſties return from <hi>Scotland,</hi> being in <hi>Dec.</hi> 1641. and continued untill <hi>March</hi> 21. 1643. in <hi>Quarto,</hi> price 6 <hi>s.</hi>
+               </p>
+               <p>The <hi>Charter</hi> of <hi>Rumny-Marſh,</hi> in <hi>Octavo,</hi> price 4 <hi>s.</hi>
+               </p>
+            </div>
+            <div n="D" type="part">
+               <head>D.</head>
+               <p>
+                  <hi>JVs imponendi Vectigalia,</hi> or the learning touching Cuſtoms, Ton<g ref="char:EOLhyphen"/>nage, Poundage, and Impoſitions on Merchandizes aſſerted; as well from the Rules of the Common and Civil Law, as of general Reaſon and Policy of State, by Sir <hi>Iohn Davis</hi> Knight, &amp;c. in <hi>Octavo,</hi> Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+               </p>
+               <pb n="101" facs="tcp:105078:57"/>
+               <p>The Hiſtory of the Ancient and Mo<g ref="char:EOLhyphen"/>dern Eſtate of the Principality of <hi>Wales Dutcy</hi> of <hi>Cornwall</hi> and Earldom of <hi>Che<g ref="char:EOLhyphen"/>ſter,</hi> Collected out of the Records of the Tower of <hi>London</hi> and divers Anci<g ref="char:EOLhyphen"/>ent Authors, by Sir <hi>Io. Doderidge</hi> Knight, in <hi>Quarto,</hi> Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+               </p>
+               <p>
+                  <hi>Origines Iudiciales,</hi> or Hiſtorical Memorials of the Engliſh Laws, Courts of Juſtice, Forms of Tryal, Puniſh<g ref="char:EOLhyphen"/>ment in Caſes Criminal, Law Writers, Law Books, Grants and Settlements of Eſtates, degrees of Serjeants, Inns of Court and Chancery, alſo a Chrono<g ref="char:EOLhyphen"/>logy of the Lord Chancellor, &amp;c. by <hi>William Dugdale</hi> Eſquire, Norroy King of Armes, in <hi>Folio,</hi> Price, 20 <hi>s.</hi>
+               </p>
+               <p>The <hi>Engliſh Lawyer</hi> deſcribing a Method for the managing of the Laws of this Land, and expreſſing the beſt qualities requiſite in the Student pra<g ref="char:EOLhyphen"/>cticer, Judges, and Fathers of the ſame: Written by the Reverend and Learned Sir <hi>Iohn Doderidge</hi> Knight, and one of the Juſtices of the <hi>Kings Bench,</hi> in <hi>Quarto,</hi> Price 2 <hi>s.</hi> 6 <hi>d.</hi>
+               </p>
+            </div>
+            <div n="E" type="part">
+               <pb n="102" facs="tcp:105078:58"/>
+               <head>E.</head>
+               <p>THe <hi>Exact Lawgiver</hi> Communicating to the skilfull the firm Baſis and Axioms of their Profeſſion; to the Ignorant, their Ancient and undoubt<g ref="char:EOLhyphen"/>ed Birthrights and Inheritances, in <hi>O<g ref="char:EOLhyphen"/>ctavo,</hi> Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+               </p>
+               <p>The <hi>Speech</hi> of the Lord Chancellor <hi>Eleſmore</hi> in the Exchequer Chamber, touching the <hi>Poſt-Nati,</hi> in <hi>Quarto,</hi> Price 1 <hi>s.</hi>
+               </p>
+               <p>
+                  <hi>Edgars</hi> Charge in <hi>Quarto.</hi>
+               </p>
+            </div>
+            <div n="F" type="part">
+               <head>F.</head>
+               <p>
+                  <hi>FLeta,</hi> or a <hi>Commentary upon the Engliſh Law,</hi> (ſo called) writ<g ref="char:EOLhyphen"/>ten by an Anonymos Author in the time of <hi>E.</hi> 1. with the ſmall Treatiſe called <hi>Fet aſſavior</hi> annexed, and Mr. <hi>Seldens <hi>Hiſtorical Diſſertations</hi>
+                  </hi> to <hi>Fleta,</hi> in <hi>Quarto, <hi>Latine,</hi>
+                  </hi> Price 12 <hi>s.</hi>
+               </p>
+               <p>* <hi>De laudibus Legum Angliae</hi> writ<g ref="char:EOLhyphen"/>ten by Sir <hi>Iohn Forteſcue</hi> Lord Chief Juſtice, and after Lord Chancellor to
+<pb n="103" facs="tcp:105078:58"/> King <hi>Hen.</hi> 6. to which are added the two Sums of Sir <hi>Ralph</hi> de <hi>Hengham</hi> Lord Chief Juſtice to King <hi>Edw.</hi> 1. com<g ref="char:EOLhyphen"/>monly called <hi>Hengham <hi>Magna</hi>
+                  </hi> and <hi>Hengham <hi>Parva.</hi>
+                  </hi> Notes both on <hi>For<g ref="char:EOLhyphen"/>teſcue</hi> and <hi>Hengham</hi> are added, in <hi>O<g ref="char:EOLhyphen"/>ctavo, <hi>Engliſh</hi>
+                  </hi> and <hi>Latine,</hi> Price 3 <hi>s.</hi> 6 <hi>d.</hi>
+               </p>
+               <p>Perfect and Exact <hi>Directions</hi> to all thoſe that deſire to know the true and juſt <hi>Fees</hi> of theſe <hi>Courts</hi> following, <hi>viz.</hi> The Fees of all the Offices belonging to the Court of <hi>Common Pleas.</hi> A Table of the Prothonotaries Fees. The Fees of the Chancery according to the Table in the Office. The Ordinance of the Chancery, by <hi>Thomas</hi> Lord <hi>Coventry,</hi> late Lord Keeper of <hi>the Great Seal of England,</hi> in <hi>Octavo,</hi> Price 1 <hi>s.</hi>
+               </p>
+               <p>
+                  <hi>Law,</hi> or a Diſcourſe thereof, in four Books, written by Sir <hi>Hen. Finch,</hi> in <hi>Folio, <hi>French,</hi>
+                  </hi> Price 8 <hi>s.</hi> and done into <hi>Engliſh</hi> by the ſame Au<g ref="char:EOLhyphen"/>thor, in <hi>Octavo,</hi> Price 3 <hi>s.</hi> 6 <hi>d.</hi>
+               </p>
+               <p>* A <hi>Parallel</hi> or Conference of the Civil Law, the Canon Law, and the Common Law of this Realm; wherein the Agreement and diſagreement of
+<pb n="104" facs="tcp:105078:59"/> theſe three Laws, and the Cauſes and reaſons of the ſaid Agreement are o<g ref="char:EOLhyphen"/>pened and diſcuſſed in <hi>two parts,</hi> to which is added the <hi>Pandects</hi> of the Law of Nations, containing ſeveral diſ<g ref="char:EOLhyphen"/>courſes of the Queſtions, points, and Matters of the Law, wherein the Na<g ref="char:EOLhyphen"/>tions of the World do conſent and ac<g ref="char:EOLhyphen"/>cord, by <hi>William Fulbeck,</hi> in <hi>Quarto,</hi> Price 8 <hi>s.</hi>
+               </p>
+               <p>The <hi>Lawyers Logick,</hi> exemplifying the Precepts of Logick by the Practice of the Common Law, by <hi>Abraham Fraunce,</hi> in <hi>Quarto,</hi> Price 3 <hi>s.</hi>
+               </p>
+               <p>The <hi>Freeholders Grand Inqueſt,</hi> in <hi>Quarto,</hi> Price 1 <hi>s.</hi>
+               </p>
+               <p>The <hi>Filacers Office,</hi> or the Mea<g ref="char:EOLhyphen"/>ſne proceſs Filacers make out before appearance, the nature and forms of their ſeveral Writs, and the manner of their Proceedings thereupon, toge<g ref="char:EOLhyphen"/>ther with a Table of their Fees, in <hi>Octavo,</hi> Price 1 <hi>s.</hi>
+               </p>
+               <p>A <hi>Direction</hi> or <hi>Preparative</hi> to <hi>the ſtudy of the Law,</hi> wherein is ſhewed what things ought to be obſerved and what ought to be eſchewed and avoid<g ref="char:EOLhyphen"/>ed, by <hi>Henry Fulbeck,</hi> in <hi>Octavo,</hi> Price 1 <hi>s.</hi> 6. <hi>d.</hi>
+               </p>
+            </div>
+            <div n="G" type="part">
+               <pb n="105" facs="tcp:105078:59"/>
+               <head>G.</head>
+               <p>A <hi>Treatiſe</hi> of the <hi>Laws</hi> and <hi>Cu<g ref="char:EOLhyphen"/>ſtoms</hi> of <hi>England,</hi> compoſed in the time of King <hi>Henry</hi> the <hi>Second</hi> by <hi>R<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Glanvile,</hi> being then Chief Juſtice of <hi>England,</hi> in <hi>Octavo, <hi>Latine,</hi>
+                  </hi> Price 6 <hi>s.</hi>
+               </p>
+            </div>
+            <div n="H" type="part">
+               <head>H.</head>
+               <p>* THe <hi>Law of Conveyances</hi> ſhewing the natures, kinds, and effects, of all manner of aſſurances, with the manner of their ſeveral Executions and Ope<g ref="char:EOLhyphen"/>rations, alſo directions to ſue out and proſecute all manner of Writs, of Ex<g ref="char:EOLhyphen"/>tent, Elegit, and Judicial Writs, up<g ref="char:EOLhyphen"/>on Statutes, Recognizances, judge<g ref="char:EOLhyphen"/>ments, &amp;c. A Warrant to Summon a Court of Survey; and the Articles to be given in charge and Inquired of in that Court. With an Expoſition of di<g ref="char:EOLhyphen"/>vers obſcure words and terms of Law, uſed in Ancient Records, &amp;c. and alſo plain Decimal Tables, &amp;c. with a Con<g ref="char:EOLhyphen"/>cordance of years, &amp;c. <hi>the Second Edi<g ref="char:EOLhyphen"/>tion
+<pb n="106" facs="tcp:105078:60"/> Corrected</hi> and <hi>Amended,</hi> by <hi>Iohn Herne</hi> Gent. in <hi>Octavo,</hi> Price 2 <hi>s.</hi>
+               </p>
+               <p>* The <hi>Law</hi> of <hi>Charitable uſes,</hi> wherein the Statute of 43 <hi>Eliz.</hi> chap. 4. is ſet forth and explained; with directions how to ſue out and proſe<g ref="char:EOLhyphen"/>cute Commiſſions grounded upon that Statute. Alſo Preſidents, Inquiſitions and Decrees; and other proceedings upon the ſaid Statute, by <hi>Iohn Herne;</hi> The <hi>Second Edition</hi> much <hi>Enlarged</hi> and <hi>Amended,</hi> in <hi>Octavo,</hi> Price 2 <hi>s.</hi>
+               </p>
+               <p>The <hi>Idea</hi> of the <hi>Law,</hi> charactered from <hi>Moſes</hi> to King <hi>Charles.</hi> Where<g ref="char:EOLhyphen"/>unto is added the <hi>Idea</hi> of <hi>Government</hi> and <hi>Tyranny,</hi> by <hi>Iohn Heydon</hi> Gent. in <hi>Octavo,</hi> Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+               </p>
+            </div>
+            <div n="I" type="part">
+               <head>I.</head>
+               <p>
+                  <hi>JVdgments</hi> as they were upon ſolemn Arguments given in the <hi>
+                     <g ref="char:V">Ʋ</g>pper Bench</hi> and <hi>Common Pleas,</hi> upon the moſt difficult points in all manner of Acti<g ref="char:EOLhyphen"/>ons; together with the Terms and
+<pb n="107" facs="tcp:105078:60"/> Number Rolls, in which the ſame are Entered, in <hi>Octavo,</hi> Price 2 <hi>s.</hi> 6 <hi>d.</hi>
+               </p>
+               <p>
+                  <hi>Inſtructions</hi> for <hi>Iury-men</hi> on the Commiſſion of Sewers; ſhewing 1 What they are to ſurvey and view; 2. What to enquire and preſent; 3. How. Delivered in a charge to three ſeveral Juries at a Seſſion of Sewers holden at <hi>Spalding</hi> in the County of <hi>Lincoln.</hi> To which is added two other Charges, the one concerning <hi>Lovell's works;</hi> the other touching the river of <hi>Glean,</hi> in <hi>Octavo,</hi> Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+               </p>
+               <p>The <hi>Works</hi> of <hi>Iudge Ienkins,</hi> upon divers Statutes concerning the Liberty and Freedom of the Subject, in <hi>Twelves,</hi> Price 1 <hi>s.</hi>
+               </p>
+            </div>
+            <div n="K" type="part">
+               <pb n="108" facs="tcp:105078:61"/>
+               <head>K.</head>
+               <p>
+                  <gap reason="illegible: missing" extent="1 paragraph">
+                     <desc>〈1 paragraph〉</desc>
+                  </gap>
+               </p>
+            </div>
+            <div n="L" type="part">
+               <head>L.</head>
+               <p>* <hi>ARchalonomia,</hi> or Books of the ancient Laws of the Engliſh, heretofore in antient times compiled in Engliſh, and afterwards (for the great profit of Lawyers and Lovers of Antiquities) publiſhed by (the great Antiquary) Mr. <hi>William Lambert, Corrected <hi>in</hi>
+                  </hi> 600 <hi>places</hi> by his own Book, with many other additions. And in the laſt Edition are added the Lawes of <hi>H.</hi> 1. then firſt publiſhed, taken out of the Manuſcript remaining in the <hi>Exche<g ref="char:EOLhyphen"/>quer:</hi>
+                  <pb n="109" facs="tcp:105078:61"/> Together with an antient Gloſ<g ref="char:EOLhyphen"/>ſary thereof, out of <hi>M. S.</hi> Book, late belonging to St. <hi>Auguſtine</hi> of <hi>Cant.</hi> in <hi>Folio, <hi>Latin,</hi>
+                  </hi> Price 10 <hi>s.</hi>
+               </p>
+               <p>
+                  <hi>Legis Fluvius:</hi> or the Fountain of the Law opened: ſhewing the Manner, Method and Forms of Proceedings, and Pleas on all actions and Informations, grounded on all the new and old Pe<g ref="char:EOLhyphen"/>nal Statutes; with Preſidents for the moſt uſual Indictments, by <hi>A. G.</hi> in <hi>Octavo,</hi> Price 1 <hi>s.</hi>
+               </p>
+               <p>* The <hi>Provincial Conſtitutions</hi> of <hi>England,</hi> with the Notes of <hi>William Linwood,</hi> in <hi>Folio,</hi> Price 20 <hi>s.</hi>
+               </p>
+            </div>
+            <div n="M" type="part">
+               <head>M.</head>
+               <p>* A Treatiſe of the <hi>Laws</hi> of the <hi>Foreſt,</hi> wherein is declared not only thoſe Laws, as they are now in force, but alſo the original and be<g ref="char:EOLhyphen"/>ginning of Foreſts, and what a Foreſt is in its own proper nature, and where<g ref="char:EOLhyphen"/>in the ſame doth differ from a Chaſe,
+<pb n="110" facs="tcp:105078:62"/> a Park, or a Warren, with all ſuch things as are incident thereunto, with the ſeveral proper terms of Art. Alſo a Treatiſe of the <hi>P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>urallee,</hi> Collected, as well out of the Common Laws and Statutes of this Land, as alſo out of ſundry learned ancient Authors, and out of the Aſſizes of <hi>Pickering</hi> and <hi>Lan<g ref="char:EOLhyphen"/>caſter,</hi> by <hi>Io. Manwood,</hi> whereunto are added the Statutes of the Foreſt, <hi>&amp;c.</hi> never heretofore Printed for the publick: The <hi>Third Edition Corre<g ref="char:EOLhyphen"/>cted <hi>and much</hi> Enlarged,</hi> in <hi>Quarto,</hi> Price 6 <hi>s.</hi>
+               </p>
+               <p>
+                  <hi>Actions</hi> for <hi>Slander,</hi> or a Methodi<g ref="char:EOLhyphen"/>call Collection under certain Grounds and Heads, of what words are actio<g ref="char:EOLhyphen"/>nable in the Law, and what not. To which is added <hi>Awards,</hi> or Arbitra<g ref="char:EOLhyphen"/>ments. Collected out of the Year-Books, and other private and authen<g ref="char:EOLhyphen"/>tick Authorities: Wherein is princi<g ref="char:EOLhyphen"/>pally ſhewed what Arbitraments are good in Law, and what not, by <hi>Io. March</hi> of <hi>Grayes-Inne</hi> Barriſter: in two Parts, in <hi>Octavo,</hi> Price 2 <hi>s.</hi> 6 <hi>d.</hi>
+               </p>
+               <p>
+                  <hi>Amicus Reipublicae:</hi> or an Exact and Speedy way to Juſtice, for preven<g ref="char:EOLhyphen"/>tion of Law ſuits, by <hi>Io. March,</hi> in <hi>O<g ref="char:EOLhyphen"/>ctavo,</hi> Price 1 <hi>s.</hi>
+               </p>
+               <pb n="111" facs="tcp:105078:62"/>
+               <p>* <hi>Landlords Law;</hi> being a Colle<g ref="char:EOLhyphen"/>ction of ſeveral Caſes in the Law, con<g ref="char:EOLhyphen"/>cerning Leaſes and the Covenants, Conditions, Grants, Proviſoes, Exce<g ref="char:EOLhyphen"/>ptions, Surrenders, <hi>&amp;c.</hi> of the ſame. As alſo touching Diſtreſſes, Replevins, Reſcous and Waſte, and ſeveral other Matters, which often come in debate between <hi>Landlord</hi> and <hi>Tenant.</hi> The <hi>Third Edition,</hi> by <hi>Geo. Meriton</hi> Gent. in <hi>Twelves,</hi> Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+               </p>
+            </div>
+            <div n="N" type="part">
+               <head>N.</head>
+               <p>A Declaration of <hi>Nuſance,</hi> con<g ref="char:EOLhyphen"/>cerning dwelling houſes, with the reſolutions of the Judge of Aſſize, up<g ref="char:EOLhyphen"/>on Queſtions touching Pariſhes: the power of Juſtices, Conſtables, in <hi>Quar<g ref="char:EOLhyphen"/>to,</hi> Price 6 <hi>d.</hi>
+               </p>
+               <pb n="112" facs="tcp:105078:63"/>
+               <p>
+                  <hi>OLivers Ordinances,</hi> in <hi>Folio,</hi> Price 6 <hi>s.</hi>
+               </p>
+               <p>
+                  <hi>Ordinances</hi> of <hi>Parliament,</hi> in <hi>Folio.</hi>
+               </p>
+               <p>
+                  <hi>Orders</hi> for the <hi>Poor,</hi> in <hi>Quarto,</hi> Price 6 <hi>d.</hi>
+               </p>
+            </div>
+            <div n="P" type="part">
+               <head>P.</head>
+               <p>
+                  <hi>PLowdens Queries,</hi> in <hi>Octavo, <hi>French.</hi>
+                  </hi> Price 2 <hi>s. The ſame is alſo Tranſlated into Engliſh, <hi>Methodized</hi>
+                  </hi> and <hi>Enlarged,</hi> by <hi>H. B.</hi> of <hi>Lincolns</hi>-Inne, Eſquire, in <hi>Octavo,</hi> Price 2 <hi>s.</hi>
+               </p>
+               <p>
+                  <hi>Brief Animadverſions,</hi> on Amend<g ref="char:EOLhyphen"/>ments of, and additional Explanatory Records to the <hi>Fourth part</hi> of the <hi>In<g ref="char:EOLhyphen"/>ſtitutes</hi> of the Laws of <hi>England,</hi> con<g ref="char:EOLhyphen"/>cerning the Juriſdiction of Courts. Compiled by the late famous Lawyer Sir <hi>Edward Coke</hi> Knight, in his life time, but publiſhed and reprinted with ſome diſadvantage ſince his death: Wherein the miſquotations, miſtakes of Records, Antiquities cited in them, are rectified, ſome doubtful paſſages explained; many defective omiſſions of uſeful Records ſupplied, by <hi>W. Prynne</hi>
+                  <pb n="113" facs="tcp:105078:63"/> Eſquire, in <hi>Folio,</hi> Price 12 <hi>s.</hi>
+               </p>
+               <p>
+                  <hi>Parſons Anſwer</hi> to the <hi>Lord Coke's Fifth part</hi> of <hi>Reports,</hi> concerning the antient and modern municipal Laws of <hi>England,</hi> which do appertain to ſpiritu<g ref="char:EOLhyphen"/>al Power and Juriſdiction, in <hi>Quarto,</hi> Price 8 <hi>s.</hi>
+               </p>
+               <p>* The <hi>Attorneys Academy,</hi> or the Manner &amp; Form of proceeding practi<g ref="char:EOLhyphen"/>cally upon any Suit, Plaint or Action whatſoever, in any Court of Record whatſoever, within this Kingdom, <hi>Re<g ref="char:EOLhyphen"/>viewed <hi>and much</hi> Enlarged,</hi> by <hi>Tho. Powell,</hi> in <hi>Quarto,</hi> Price 3 <hi>s.</hi>
+               </p>
+               <p>The <hi>Repertory</hi> of <hi>Records,</hi> remaining in the four Treaſuries on the receipt-ſide at <hi>Weſtminſter,</hi> the two Remem<g ref="char:EOLhyphen"/>brancers of the <hi>Exchequer,</hi> by <hi>Tho. Powell,</hi> in <hi>Quarto,</hi> Price 2 <hi>s.</hi>
+               </p>
+               <p>
+                  <hi>Ius Fratrum,</hi> the Law of Brethren, touching the power of Parents, to di<g ref="char:EOLhyphen"/>ſpoſe of their Eſtates to their Children or to others. The Prerogative of the el<g ref="char:EOLhyphen"/>deſt, &amp; the rights and priviledges of the younger Brothers, ſhewing the variety of Cuſtoms in ſeveral Counties, and the preſervation of Families. Collected out of the Common, Canon, &amp; Statute Laws of <hi>England,</hi> by <hi>Iohn Page,</hi> late Maſter
+<pb n="114" facs="tcp:105078:64"/> in <hi>Chancery,</hi> and Doctor of the Civil Law, in <hi>Octavo,</hi> Price 1 <hi>s.</hi>
+               </p>
+               <p>
+                  <hi>Directions</hi> for ſearch of <hi>Records</hi> re<g ref="char:EOLhyphen"/>maining in the <hi>Chancery, Tower, Exche<g ref="char:EOLhyphen"/>quer,</hi> with the accuſtomed Fees of ſearch by <hi>T. Powell,</hi> in <hi>Quarto,</hi> Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+               </p>
+               <p>* <hi>Studii Legalis ratio,</hi> or Directi<g ref="char:EOLhyphen"/>ons for the ſtudy of the Law. The <hi>Se<g ref="char:EOLhyphen"/>cond Edition,</hi> by <hi>W. Phillipps,</hi> in <hi>Twelves,</hi> Price 1 <hi>s.</hi>
+               </p>
+            </div>
+            <div n="R" type="part">
+               <head>R.</head>
+               <p>A <hi>View</hi> of the <hi>Civil</hi> and <hi>Eccleſiaſti<g ref="char:EOLhyphen"/>cal Law:</hi> and wherein the practice of them is ſtraitned, and may be relie<g ref="char:EOLhyphen"/>ved within this Land, by Sir <hi>Thomas Ridley</hi> Knight, and Doctor of the Ci<g ref="char:EOLhyphen"/>vil Law. The <hi>Third Edition:</hi> by <hi>I. G.</hi> Maſter of Arts, in <hi>Octavo,</hi> Price 3 <hi>s.</hi>
+               </p>
+               <p>The <hi>Rights</hi> of the Kingdom, accord<g ref="char:EOLhyphen"/>ing to the ancient Cuſtoms thereof, in <hi>Quarto,</hi> Price 8 <hi>s.</hi>
+               </p>
+            </div>
+            <div n="S" type="part">
+               <pb n="115" facs="tcp:105078:64"/>
+               <head>S.</head>
+               <p>THe <hi>old Provincial</hi> of the <hi>Province</hi> of <hi>Canterbury,</hi> with the choiceſt of <hi>Linwoods Notes,</hi> whereunto are An<g ref="char:EOLhyphen"/>nexed the Conſtitutions of <hi>Otho</hi> and <hi>Othobon,</hi> by <hi>Robert Sharrock,</hi> Doctor of Laws, in <hi>Twelves, <hi>Latine,</hi>
+                  </hi> Price 5 <hi>s.</hi>
+               </p>
+               <p>A Treatiſe concerning <hi>Eſtates Tayle,</hi> and Diſcents of Inheritance, written by <hi>N. N.</hi> and Publiſhed by <hi>I. Sherman</hi> of <hi>Lincolns-Inne,</hi> Gent. in <hi>Quarto,</hi> Price 6. <hi>d.</hi>
+               </p>
+               <p>The <hi>Caſe of Ship-money,</hi> briefly diſ<g ref="char:EOLhyphen"/>courſed according to the grounds of the Law, Policy, and Conſcience, in <hi>Quarto,</hi> Price, 8 <hi>d.</hi>
+               </p>
+               <p>* The <hi>Practical Regiſter,</hi> or the Ac<g ref="char:EOLhyphen"/>compliſhed Attorney, conſiſting of Rules, Orders, and the moſt principal obſervations concerning the practice of the Common Law in his Majeſties Courts at <hi>Weſtminster,</hi> but more parti<g ref="char:EOLhyphen"/>cularly applicable to the proceedings in the <hi>Kings Bench,</hi> as well in matters Criminal as Civil, by <hi>William Style</hi> of the <hi>Inner Temple</hi> Eſquire, the <hi>Se<g ref="char:EOLhyphen"/>cond Edition</hi> very much <hi>Enlarged,</hi> in <hi>Octavo,</hi> Price 3 <hi>s.</hi> 6 <hi>d.</hi>
+               </p>
+               <pb n="116" facs="tcp:105078:65"/>
+               <p>The <hi>Practical Counſellor</hi> in the Law touching <hi>Fines, Common Reco<g ref="char:EOLhyphen"/>veries, Judgements, and the Execution there<g ref="char:EOLhyphen"/>of, Statutes, Recognizances,</hi> and <hi>Bar<g ref="char:EOLhyphen"/>gain</hi> and <hi>Sale.</hi> Collected out of the many great Volumes of the Law, by <hi>William Sheppard</hi> Eſquire, in <hi>Folio,</hi> Price 12 <hi>s.</hi>
+               </p>
+               <p>The <hi>Law</hi> of <hi>Common Aſſurances,</hi> touching Deeds in General, <hi>viz. Fe<g ref="char:EOLhyphen"/>offments, Gifts, Grants, Leaſes,</hi> by <hi>Willi<g ref="char:EOLhyphen"/>am Sheppard</hi> Eſquire, in <hi>Folio,</hi> Price 14 <hi>s.</hi>
+               </p>
+               <p>
+                  <hi>Action upon the Caſe for ſlander,</hi> or a Methodical Collection under certain heads of thouſands of Caſes, of what words are Actionable and what not. And of a Conſpiracy, and a Libel: by <hi>W. Sheppard</hi> Eſquire, in <hi>Folio,</hi> Price 6 <hi>s.</hi>
+               </p>
+               <p>
+                  <hi>Actions upon the Caſe for Deeds, <hi>viz.</hi>
+                  </hi> Contracts, Aſſumpſits, Deceipts, Nuſan<g ref="char:EOLhyphen"/>ces, Trover and Converſion, Delivery of Goods, and for other Male-feaſanze and Miſ-feazance. Collected out of the many great Volumes of the Law, by <hi>W. Sheppard</hi> Eſquire, in <hi>Folio,</hi> Price 8 <hi>s.</hi>
+               </p>
+               <p>The <hi>faithful Counſellor:</hi> or the Mar<g ref="char:EOLhyphen"/>row
+<pb n="117" facs="tcp:105078:65"/> of the Law in <hi>Engliſh,</hi> Methodi<g ref="char:EOLhyphen"/>cally and plainly ſhewing how any A<g ref="char:EOLhyphen"/>ction may be warrantably laid in the Common Law, for relief in moſt cauſes of wrongs done, and in what Caſes re<g ref="char:EOLhyphen"/>lief is to be had in the high Court of Chancery, by <hi>William Sheppard</hi> E<g ref="char:EOLhyphen"/>ſquire, in <hi>two parts,</hi> in <hi>Quarto,</hi> Price 10 <hi>s.</hi>
+               </p>
+               <p>The <hi>Touchſtone of common Aſſuran<g ref="char:EOLhyphen"/>ces,</hi> a Treatiſe opening the learning of the Common Aſſurances or Convey<g ref="char:EOLhyphen"/>ances of the Kingdome, by <hi>W. Shep<g ref="char:EOLhyphen"/>pard</hi> Eſquire, in <hi>Quarto,</hi> Price 6 <hi>s.</hi>
+               </p>
+               <p>Of the <hi>Office of the Clerk of the Market,</hi> of Weights and Meaſures, and of the Laws of Proviſion for Man and Beaſt, for Bread, Wine, Beer, Meal, &amp;c. by <hi>W. Sheppard</hi> Eſquire, in <hi>Octavo,</hi> Price 1 <hi>s.</hi>
+               </p>
+               <p>
+                  <hi>Propoſals</hi> for the Regulation of the Law by <hi>W. Sheppard</hi> Eſquire, in <hi>Octa<g ref="char:EOLhyphen"/>vo,</hi> Price 1 <hi>s.</hi>
+               </p>
+               <p>
+                  <hi>A view of all the Laws</hi> and Statutes of this Nation concerning the ſervice <hi>of God or Religion,</hi> by <hi>W. Sheppard</hi> E<g ref="char:EOLhyphen"/>ſquire, in <hi>Twelves,</hi> Price 8 <hi>d.</hi>
+               </p>
+               <p>Of <hi>Corporations, Fraternities,</hi> and <hi>Guilds:</hi> or a Diſcourſe wherein the
+<pb n="118" facs="tcp:105078:66"/> learning of the Law touching Bodies Politick is unfolded, ſhewing the uſe and neceſſity of that Invention, the Antiquity various kinds, Order and Government of the ſame: with forms and Preſidents of Charters of Corpo<g ref="char:EOLhyphen"/>rations, by <hi>W. Sheppard</hi> Eſquire, in <hi>Octavo,</hi> Price 1 <hi>s.</hi>
+               </p>
+               <p>
+                  <hi>Special</hi> and <hi>Select Law-Caſes</hi> con<g ref="char:EOLhyphen"/>cerning the Perſons and Eſtates of all men whatſoever; Collected out of the Reports and Year-Books of the Com<g ref="char:EOLhyphen"/>mon Law of England, in <hi>Quarto;</hi> Price 2 <hi>s.</hi> 6 <hi>d.</hi>
+               </p>
+               <p>* The <hi>Commonwealth of England,</hi> and the manner and Government thereof, by Sir <hi>Thomas Smith</hi> Knight Doctor of both Laws, &amp;c. with <hi>new Ad<g ref="char:EOLhyphen"/>ditions</hi> of the Ancient Courts in <hi>En<g ref="char:EOLhyphen"/>gland,</hi> and the Offices thereof by the ſaid Author, in <hi>Twelves,</hi> Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+               </p>
+               <p>
+                  <hi>Mare Clauſum,</hi> or the Right and Dominion of the Sea, in two Books, by the Learned Antiquary <hi>Iohn Selden</hi> Eſquire, in <hi>Folio, <hi>Latin,</hi>
+                  </hi> Price 8 <hi>s. The ſame is alſo Tranſlated into Engliſh,</hi> in <hi>Folio,</hi> Price 10 <hi>s.</hi>
+               </p>
+            </div>
+            <div n="T" type="part">
+               <pb n="119" facs="tcp:105078:66"/>
+               <head>T.</head>
+               <p>
+                  <hi>SErjeant Thorpe</hi> Judge of Aſſiize for the Northern Circuit his <hi>Charge,</hi> as it was delivered to the Grand Jury at <hi>York</hi> Aſſizes the 20. <hi>March,</hi> 1648. clearly Epitomizing the Statutes be<g ref="char:EOLhyphen"/>longing to this Nation, which con<g ref="char:EOLhyphen"/>cerns the ſeveral Eſtates and Conditi<g ref="char:EOLhyphen"/>ons of men, in <hi>Quarto,</hi> Price 8 <hi>d.</hi>
+               </p>
+               <p>
+                  <hi>Trials per Pais,</hi> or the Law con<g ref="char:EOLhyphen"/>cerning Juries by <hi>Niſi Prius,</hi> &amp;c. me<g ref="char:EOLhyphen"/>thodically compoſed by <hi>S. E.</hi> of the <hi>Inner-Temple</hi> Eſquire, in <hi>Octavo,</hi> Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+               </p>
+               <p>A <hi>Treatiſe</hi> of the <hi>Nobility</hi> of the <hi>Realm,</hi> Collected out of the Body of the Common Law, with mention of ſome Statutes incident thereunto, upon a debate of the Barony of <hi>Aburgaveny,</hi> in <hi>Octavo,</hi> Price 1 <hi>s.</hi>
+               </p>
+               <p>
+                  <hi>Tenants Law;</hi> a Treatiſe of great uſe for Tenants and Farmers of all kinds, wherein the ſeveral natures, dif<g ref="char:EOLhyphen"/>ferences and kinds of Tenures and Te<g ref="char:EOLhyphen"/>nants are diſcuſſed, by <hi>R. T.</hi> Gent. in <hi>Twelves,</hi> Price 1 <hi>s.</hi>
+               </p>
+               <p>The <hi>Tenures</hi> of <hi>Ireland,</hi> in <hi>Folio,</hi> Price 8 <hi>s,</hi>
+               </p>
+               <pb n="120" facs="tcp:105078:67"/>
+               <p>FOr the <hi>Sacred Law</hi> of the Land, by <hi>Fr. Whyte,</hi> in <hi>Octavo,</hi> Price 1 <hi>s</hi> 6 <hi>d.</hi>
+               </p>
+               <p>
+                  <hi>The Laws Reſolutions</hi> of <hi>Womans Rights,</hi> or the Laws proviſion for Wo<g ref="char:EOLhyphen"/>men. A Collection of ſuch Statutes and Cuſtoms, with the Caſes, Opinions, Ar<g ref="char:EOLhyphen"/>guments and points of Learning in the Law as do properly concern Women, in <hi>Quarto,</hi> Price 3 <hi>s.</hi> 6 <hi>d.</hi>
+               </p>
+               <p>An <hi>Abridgment</hi> of all <hi>Sea Laws,</hi> a<g ref="char:EOLhyphen"/>mongſt any people or Nation, on the Coaſts of the great Ocean, by <hi>W. Wel<g ref="char:EOLhyphen"/>wood,</hi> in <hi>Octavo,</hi> Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+               </p>
+               <p>The <hi>Law</hi> of <hi>Laws,</hi> or the excellency of the Civil Law, above all other hu<g ref="char:EOLhyphen"/>mane Laws whatſoever: by <hi>Ro. Wiſe<g ref="char:EOLhyphen"/>man,</hi> Dr. of the Civil Law, in <hi>Quarto,</hi> Price 2 <hi>s.</hi> 6 <hi>d.</hi>
+               </p>
+               <p>
+                  <hi>Statuta Pacis,</hi> or a Table of all the Statutes which any way concerned the Office of a Juſtice of Peace, the ſeveral duties of Sheriffs, head Officers of Cor<g ref="char:EOLhyphen"/>porations, Stewards in Leets, Conſtables <hi>&amp;c.</hi> by <hi>E. Wingate,</hi> in 12<hi rend="sup">o</hi>. Price 2 <hi>s.</hi>
+               </p>
+               <p>
+                  <hi>Forteſcutus Illuſtratus,</hi> or a Com<g ref="char:EOLhyphen"/>mentary on that nervous Treatiſe, <hi>De Laudibus Legum Angliae,</hi> written by Sir <hi>J. Forteſcue</hi> Knight, by <hi>Edw. Waterhouſe</hi> Eſquire, in <hi>Folio,</hi> Price 16 <hi>s.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:105078:67"/>
+         </div>
+      </body>
+   </text>
+</TEI>
